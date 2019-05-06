@@ -1,4 +1,3 @@
 title: Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things
 theme: jekyll-theme-slate
-show_downloads: true
-    
+github.is_project_page: false
