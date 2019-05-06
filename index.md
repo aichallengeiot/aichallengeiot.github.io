@@ -11,7 +11,9 @@ This workshop focuses on how to address the above and other unique challenges of
 
 Papers focusing on specific IoT applications and generic IoT systems are both welcome.
 
-Submissions should be up to 6 pages, in double column ACM proceeding format. Submitted papers will be reviewed by a program committee for novelty, relevance, and quality. Submission link: TBD
+Submissions should be up to 6 pages, in double column ACM proceeding format. Submitted papers will be reviewed by a program committee for novelty, relevance, and quality. 
+
+Submission link: TBD
 
 ### Important Dates
 - Paper Submission: August 9, 2019
