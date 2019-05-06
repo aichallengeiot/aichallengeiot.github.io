@@ -20,9 +20,9 @@ Submissions should be up to 6 pages, in double column ACM proceeding format. Sub
 
 ### Organizers
 
-#### Workshop Chairs
+##### Workshop Chairs
 - [Shiqiang Wang](https://researcher.watson.ibm.com/researcher/view.php?person=us-wangshiq) (IBM T. J. Watson Research Center)
 - [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles)
 
-#### Program Committee
+##### Program Committee
 TBD
