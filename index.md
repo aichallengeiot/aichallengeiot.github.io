@@ -16,7 +16,7 @@ Papers focusing on specific IoT applications and generic IoT systems are both we
 
 Submissions should be up to 6 pages, in double column ACM proceeding format. The ACM template is available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). Submitted papers will be reviewed by a program committee for novelty, relevance, and quality. 
 
-Submission link: TBD
+Submission link: [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19.hotcrp.com/)
 
 ### Important Dates
 - Paper Submission: August 9, 2019
