@@ -11,10 +11,13 @@ This workshop focuses on how to address the above and other unique challenges of
 - Algorithms and techniques for reducing human effort in data labeling (such as active learning)
 - Algorithms and techniques for sharing data and training AI/ML models while preserving user sensitive information
 - Design and implementation of AI/ML-powered IoT systems
+- Hardware, software, and tools for AI/ML in IoT
+- IoT applications enabled by AI/ML
+- Privacy and security of AI/ML in IoT
 
-Papers focusing on specific IoT applications and generic IoT systems are both welcome.
+Papers focusing on specific IoT applications and generic IoT systems are both welcome. We specifically encourage papers with forward-looking ideas that may initiate new research directions.
 
-Submissions should be up to 6 pages, in double column ACM proceeding format. The ACM template is available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). Submitted papers will be reviewed by a program committee for novelty, relevance, and quality. 
+Submissions should be up to 6 pages in double column ACM proceeding format. The ACM template is available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). The submissions should *not* be double-blind. Submitted papers will be reviewed by the program committee for novelty, relevance, and quality. 
 
 Submission link: [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19.hotcrp.com/)
 
