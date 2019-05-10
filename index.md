@@ -22,6 +22,7 @@ Submissions should be up to 6 pages in double column ACM proceeding format. The 
 Submission link: [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19.hotcrp.com/)
 
 ### Important Dates
+- Abstract Registration: August 2, 2019
 - Paper Submission: August 9, 2019
 - Notification of Paper Acceptance: September 10, 2019
 - Camera-Ready: September 20, 2019 
