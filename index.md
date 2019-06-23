@@ -37,4 +37,4 @@ Submission link: [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19
 - [Ashkan Yousefpour](http://www.utdallas.edu/~ashkan/) (University of Texas at Dallas / University of California, Berkeley)
 
 ##### Program Committee
-TBD
+To be announced
