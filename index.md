@@ -33,5 +33,8 @@ Submission link: [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19
 - [Shiqiang Wang](https://researcher.watson.ibm.com/researcher/view.php?person=us-wangshiq) (IBM T. J. Watson Research Center)
 - [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles)
 
+##### Publicity Chair
+- [Ashkan Yousefpour](http://www.utdallas.edu/~ashkan/) (University of Texas at Dallas / University of California, Berkeley)
+
 ##### Program Committee
 TBD
