@@ -17,9 +17,9 @@ This workshop focuses on how to address the above and other unique challenges of
 
 Papers focusing on specific IoT applications and generic IoT systems are both welcome. We specifically encourage papers with forward-looking ideas that may initiate new research directions.
 
-Submissions should be up to 6 pages in double column ACM proceeding format. The ACM template is available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). The submissions should *not* be double-blind. Submitted papers will be reviewed by the program committee for novelty, relevance, and quality. 
+Submissions should be up to 6 pages in double column ACM proceeding format, including figures, tables, and references. The ACM template is available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). LaTeX submissions should use the acmart.cls template (sigconf option), with the default 9-pt font. This format will be used also for the camera-ready version of accepted papers. The submissions should include authors' names and affiliations (i.e., *not* be double-blind). Submitted papers will be reviewed by the program committee for novelty, relevance, and quality. Accepted papers will be published in the ACM Digital Library. At least one of the authors of every accepted paper must register and present the paper at the workshop.
 
-Submission link: [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19.hotcrp.com/)
+Papers should be submitted in Adobe Portable Document Format (PDF). The link for paper submission is: [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19.hotcrp.com/)
 
 ### Important Dates
 - Abstract Registration: August 2, 2019
