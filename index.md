@@ -29,7 +29,7 @@ Submission link: [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19
 
 ### Organizers
 
-##### Workshop Chairs
+##### Program Chairs
 - [Shiqiang Wang](https://researcher.watson.ibm.com/researcher/view.php?person=us-wangshiq) (IBM T. J. Watson Research Center)
 - [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles)
 
