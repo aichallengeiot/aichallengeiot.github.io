@@ -5,11 +5,11 @@ Artificial intelligence (AI) and machine learning (ML) are key enabling technolo
 This workshop focuses on how to address the above and other unique challenges of applying AI/ML in IoT systems. We invite researchers and practitioners to submit *papers describing original work, experiences, or vision* related to the entire lifecycle of an IoT system powered by AI and ML, including (but not limited to) the following topics:
 - AI/ML in multi-agent, distributed, and decentralized settings
 - AI/ML on low-powered and/or intermittently connected devices
-- AI/ML with noisy (and possibly adversarial) data and labels
+- AI/ML with noisy and possibly adversarial data and labels
 - Algorithms and techniques for evolving from a new system that is initially trained with only a small amount of data
 - Algorithms and techniques for making use of data collected by geographically dispersed sensors to provide useful services through AI/ML
-- Algorithms and techniques for reducing human effort in data labeling (such as active learning)
-- Algorithms and techniques for sharing data and training AI/ML models while preserving user sensitive information
+- Algorithms and techniques for reducing human effort in data labeling, including active learning
+- Algorithms and techniques for sharing data and training AI/ML models while preserving user sensitive information, including federated learning
 - Design and implementation of AI/ML-powered IoT systems
 - Hardware, software, and tools for AI/ML in IoT
 - IoT applications enabled by AI/ML
