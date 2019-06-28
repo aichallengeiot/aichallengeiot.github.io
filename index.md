@@ -25,7 +25,7 @@ All submissions should use the double column ACM proceedings format. The ACM tem
 
 Papers should be submitted in Adobe Portable Document Format (PDF). **The link for paper submission is:** [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19.hotcrp.com/)
 
-*Note to demo/poster authors:* Authors of accepted demo/poster papers will have the choice of whether they would like their paper to be published in the conference proceedings as part of the AIChallengeIoT workshop. The way to make this choice will be sent to the authors of accepted demo/poster papers after acceptance notification. This allows authors to submit early results which they do not wish to publish formally, as well as demo/poster papers that are concurrently submitted to the main SenSys conference if they are relevant to this workshop. The reason of this rule is to maximize the opportunity for people interested in this field to gather and discuss their work at the workshop. Note that this only applies to demo/poster papers. All regular and vision/position papers will be published in the conference proceedings.
+*Note to demo/poster authors:* Authors of accepted demo/poster papers will have the choice of whether they would like their paper to be published in the conference proceedings as part of the AIChallengeIoT workshop. The way to make this choice will be sent to the authors of accepted demo/poster papers after acceptance notification. This allows authors to submit early results that they do not wish to publish formally, as well as demo/poster papers that are concurrently submitted to the main SenSys conference if they are relevant to this workshop. The reason of this rule is to maximize the opportunity for people interested in this field to gather and discuss their work at the workshop. Note that this only applies to demo/poster papers. All regular and vision/position papers will be published in the conference proceedings.
 
 ### Important Dates
 - Abstract Registration: August 2, 2019
@@ -51,6 +51,7 @@ Papers should be submitted in Adobe Portable Document Format (PDF). **The link f
 - [Puneet Gupta](http://www.seas.ucla.edu/~puneet/) (University of California, Los Angeles, USA)
 - [Jorge Ortiz](https://jortizcs.github.io/) (Rutgers University, USA)
 - [Yasser Shoukry](https://rcpsl.ece.umd.edu/people/yshoukry) (University of Maryland, USA)
+- [Lin Wang](http://linwang.info/) (Vrije Universiteit Amsterdam, Netherlands)
 - [Poonam Yadav](https://www.cl.cam.ac.uk/~py236/) (Cambridge University, UK)
 - [Ashkan Yousefpour](http://www.utdallas.edu/~ashkan/) (University of Texas at Dallas / University of California, Berkeley, USA)
 - [Cong Zhao](https://wp.doc.ic.ac.uk/aese/person/cong-zhao/) (Imperial College London, UK)
