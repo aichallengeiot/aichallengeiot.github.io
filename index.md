@@ -51,6 +51,7 @@ All submissions should use the double column ACM proceedings format. The ACM tem
 - [Lucy Cherkasova](http://www.jahrhundert.net/lucy_cherkasova.html) (ARM Research, USA)
 - [Puneet Gupta](http://www.seas.ucla.edu/~puneet/) (University of California, Los Angeles, USA)
 - [Jorge Ortiz](https://jortizcs.github.io/) (Rutgers University, USA)
+- [Priyadarshini Panda](https://web.ics.purdue.edu/~pandap/) (Purdue University / Yale University, USA)
 - [Yasser Shoukry](https://rcpsl.ece.umd.edu/people/yshoukry) (University of Maryland, USA)
 - [Lin Wang](http://linwang.info/) (Vrije Universiteit Amsterdam, Netherlands)
 - [Poonam Yadav](https://www.cl.cam.ac.uk/~py236/) (Cambridge University, UK)
