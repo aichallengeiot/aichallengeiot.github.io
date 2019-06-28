@@ -46,6 +46,7 @@ All submissions should use the double column ACM proceedings format. The ACM tem
 - [Moustafa Alzantot](http://web.cs.ucla.edu/~malzantot/) (University of California, Los Angeles, USA)
 - [Bharathan Balaji](https://www.synergylabs.org/bharath/) (Amazon AI Lab, USA)
 - [Mehdi Bennis](https://sites.google.com/view/dr-mehdi-bennis/home) (University of Oulu, Finland)
+- [Thomas Brunschwiler](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-TBR) (IBM Research Zurich, Switzerland)
 - [Dong Chen](http://users.cis.fiu.edu/~dochen/index.html) (Florida International University, USA)
 - [Lucy Cherkasova](http://www.jahrhundert.net/lucy_cherkasova.html) (ARM Research, USA)
 - [Puneet Gupta](http://www.seas.ucla.edu/~puneet/) (University of California, Los Angeles, USA)
