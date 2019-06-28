@@ -15,11 +15,17 @@ This workshop focuses on how to address the above and other unique challenges of
 - IoT applications enabled by AI/ML
 - Privacy and security of AI/ML in IoT
 
-Papers focusing on specific IoT applications and generic IoT systems are both welcome. We specifically encourage papers with forward-looking ideas that may initiate new research directions.
+Papers focusing on specific IoT applications and generic IoT systems are both welcome. We specifically encourage submissions with forward-looking ideas that may initiate new research directions. We solicit the following types of submissions.
 
-Submissions should be up to 6 pages in double column ACM proceeding format, including figures, tables, and references. The ACM template is available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). LaTeX submissions should use the acmart.cls template (sigconf option), with the default 9-pt font. This format will be used also for the camera-ready version of accepted papers. The submissions should include authors' names and affiliations (i.e., *not* be double-blind). Submitted papers will be reviewed by the program committee for novelty, relevance, and quality. Accepted papers will be published in the ACM Digital Library. At least one of the authors of every accepted paper must register and present the paper at the workshop.
+- **Regular papers** describing novel research, up to 6 pages including figures and tables, but not including references (references can use additional pages as needed), which will be presented at the workshop as oral presentation
+- **Vision/position papers** describing new research directions and challenges, up to 4 pages including figures, tables, and references, which will be presented at the workshop as a short oral presentation followed by interactive discussions
+- **Demo/poster papers** up to 2 pages including figures, tables, and references, which will be presented at the workshop as an interactive demo or poster respectively
+
+All submissions should use the double column ACM proceedings format. The ACM template is available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). LaTeX submissions should use the acmart.cls template (sigconf option), with the default 9-pt font. This format will be used also for the camera-ready version of accepted papers. The submissions should include authors' names and affiliations (i.e., *not* be double-blind). Submitted papers will be reviewed by the program committee for novelty, relevance, and quality. Accepted papers will be published in the ACM Digital Library (for demo/poster papers, see note below). At least one of the authors of every accepted paper must register and present the paper at the workshop.
 
 Papers should be submitted in Adobe Portable Document Format (PDF). The link for paper submission is: [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19.hotcrp.com/)
+
+*Note to demo/poster authors:* Authors of accepted demo/poster papers will have the choice of whether they would like their paper to be published in the conference proceedings as part of the AIChallengeIoT workshop. The way to make this choice will be sent to the authors of accepted demo/poster papers after acceptance notification. This allows authors to submit early results which they do not wish to publish formally, as well as demo/poster papers that are concurrently submitted to the main SenSys conference if they are relevant to this workshop. The reason of this rule is to maximize the opportunity for people interested in this field to gather and discuss their work at the workshop. Note that this only applies to demo/poster papers. All regular and vision/position papers will be published in the conference proceedings.
 
 ### Important Dates
 - Abstract Registration: August 2, 2019
