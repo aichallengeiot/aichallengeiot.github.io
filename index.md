@@ -28,8 +28,8 @@ All submissions should use the double column ACM proceedings format. The ACM tem
 **The link for submission is:** [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19.hotcrp.com/)
 
 ### Important Dates
-- Abstract Registration: August 2, 2019
-- Paper Submission: August 9, 2019
+- Abstract Registration: August 2, 2019 (11:59 pm anywhere on earth (UTC -12))
+- Paper Submission: August 9, 2019 (11:59 pm anywhere on earth (UTC -12))
 - Notification of Paper Acceptance: September 10, 2019
 - Camera-Ready: September 20, 2019 
 
@@ -43,6 +43,7 @@ All submissions should use the double column ACM proceedings format. The ACM tem
 - [Ashkan Yousefpour](http://www.utdallas.edu/~ashkan/) (University of Texas at Dallas / University of California, Berkeley, USA)
 
 ##### Program Committee
+- [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) (University of Illinois at Urbana Champaign, USA)
 - [Moustafa Alzantot](http://web.cs.ucla.edu/~malzantot/) (University of California, Los Angeles, USA)
 - [Bharathan Balaji](https://www.synergylabs.org/bharath/) (Amazon AI Lab, USA)
 - [Mehdi Bennis](https://sites.google.com/view/dr-mehdi-bennis/home) (University of Oulu, Finland)
@@ -54,6 +55,7 @@ All submissions should use the double column ACM proceedings format. The ACM tem
 - [Jorge Ortiz](https://jortizcs.github.io/) (Rutgers University, USA)
 - [Priyadarshini Panda](https://web.ics.purdue.edu/~pandap/) (Purdue University / Yale University, USA)
 - [Yasser Shoukry](https://rcpsl.ece.umd.edu/people/yshoukry) (University of Maryland, USA)
+- [Arun Vishwanath](https://researcher.watson.ibm.com/researcher/view.php?person=au1-arvishwa) (IBM Research, Australia)
 - [Lin Wang](http://linwang.info/) (Vrije Universiteit Amsterdam, Netherlands)
 - [Poonam Yadav](https://www.cl.cam.ac.uk/~py236/) (Cambridge University, UK)
 - [Ashkan Yousefpour](http://www.utdallas.edu/~ashkan/) (University of Texas at Dallas / University of California, Berkeley, USA)
