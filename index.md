@@ -28,8 +28,8 @@ All submissions should use the double column ACM proceedings format. The ACM tem
 **The link for submission is:** [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19.hotcrp.com/)
 
 ### Important Dates
-- Abstract Registration: ~~August 2, 2019~~ August 10, 2019 (11:59 pm anywhere on earth (UTC -12)) - FINAL DEADLINE
-- Paper Submission: ~~August 9, 2019~~ August 13, 2019 (11:59 pm anywhere on earth (UTC -12)) - FINAL DEADLINE
+- Abstract Registration: ~~August 2, 2019~~ August 10, 2019 (11:59 pm anywhere on earth (UTC -12)) - final deadline
+- Paper Submission: ~~August 9, 2019~~ August 16, 2019 (11:59 pm anywhere on earth (UTC -12)) - absolute final deadline, no further extension
 - Notification of Paper Acceptance: September 10, 2019
 - Camera-Ready: September 20, 2019 
 
