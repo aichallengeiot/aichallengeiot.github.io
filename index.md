@@ -36,7 +36,9 @@ This workshop focuses on how to address the above and other unique challenges of
 - Scaling unobtrusive sensing using raw channel state information through transfer learning  
 *Jeroen Klein Brinke (Pervasive Systems at the University of Twente), Nirvana Meratnia (Pervasive Systems at the University of Twente)*
 
+### Workshop Registration
 
+Please register for the workshop on the SenSys website: [http://sensys.acm.org/2019/registration/](http://sensys.acm.org/2019/registration/)
 
 ### Important Dates
 - Abstract Registration: ~~August 2, 2019~~ August 10, 2019 (11:59 pm anywhere on earth (UTC -12)) - final deadline
