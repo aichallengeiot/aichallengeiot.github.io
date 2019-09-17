@@ -2,7 +2,52 @@ The **First International Workshop on Challenges in Artificial Intelligence and 
 
 Artificial intelligence (AI) and machine learning (ML) are key enabling technologies for many Internet of Things (IoT) applications. However, the collection and processing of data for AI and ML is very challenging in the IoT domain. For example, there are usually a large number of low-powered sensors deployed in large geographical areas with possibly intermittent network connectivity. The sensors and their collected data may be owned by different users or organizations, which can bring further obstacles to data collection due to privacy concerns and noisy labels provided by different users. The successful application of AI/ML approaches in such scenarios with noisy and decentralized data is difficult. In addition, the amount of collected data that can be used for training AI/ML models is usually proportional to the number of users in the system, but the system may not be able to attract many users without a well-trained AI/ML model, and it is challenging to solve this dilemma.
 
-This workshop focuses on how to address the above and other unique challenges of applying AI/ML in IoT systems. We invite researchers and practitioners to submit *papers describing original work, experiences, or vision* related to the entire lifecycle of an IoT system powered by AI and ML, including (but not limited to) the following topics:
+This workshop focuses on how to address the above and other unique challenges of applying AI/ML in IoT systems. 
+
+### Accepted papers
+
+- CAM-STITCH: Trajectory Cavity Stitching Method for Stereo Vision Cameras in a Commercial Building  
+*Anooshmita Das (University of Southern Denmark), Emil Stubbe Kolvig-Raun (University of Southern Denmark), Mikkel Kjærgaard (University of Southern Denmark)*
+
+- Challenges of Privacy-Preserving Machine Learning in IoT  
+*Mengyao Zheng (Nanyang Technological University), Dixing Xu (Nanyang Technological University), Linshan Jiang (Nanyang Technological University), Chaojie Gu (Nanyang Technological University), Rui Tan (Nanyang Technological University), Peng Cheng (Zhejiang University)*
+
+- Collaborative Intelligent Cross-Camera Video Analytics at Edge: Opportunities and Challenges  
+*Hannaneh Barahouei Pasandi (Virginia Commonwealth University), Tamer Nadeem (Virginia Commonwealth University)*
+
+- Enhancing Support for Machine Learning and Edge Computing on an IoT Data Marketplace  
+*Kurian Karyakulam Sajan (University of Southern California), Gowri Sankar Ramachandran (University of Southern California), Bhaskar Krishnamachari (University of Southern California)*
+
+- Guardians of the Deep Fog: Failure-Resilient DNN Inference from Edge to Cloud  
+*Ashkan Yousefpour (UT Dallas, UC Berkeley), Siddartha Devic (UT Dallas), Brian Q. Nguyen (UT Dallas), Aboudy Kreidieh (UC Berkeley), Alan S. Liao (UT Dallas), Alexandre Bayen (UC Berkeley), Jason P. Jue (UT Dallas)*
+
+- Homomorphically Securing AI at the Edge  
+*Jakob Naucke (IBM), Hamish Hunt (IBM), Jack Crawford (IBM), Enrico Steffinlongo (IBM), Oliver Masters (IBM), Flavio Bergamaschi (IBM)*
+
+- Privacy is What We Care About: Experimental Investigation of Federated Learning on Edge Devices  
+*Anirban Das (Rensselaer Polytechnic Institute), Thomas Brunschwiler (IBM Research - Zurich)*
+
+- RC^2: Resource-efficient Collaborative Cognition Method for Internet-of-Things Devices  
+*Yuanyuan Bao (China Mobile Research Institute), Wai Chen (China Mobile Research Institute)*
+
+- Resource Characterisation of Personal-Scale Sensing Models on Edge Accelerators  
+*Mattia Antonini (FBK CREATE-NET), Tran Huy Vu (Singapore Management University), Chulhong Min (Nokia Bell Labs), Alessandro Montanari (Nokia Bell Labs), Akhil Mathur (Nokia Bell Labs and University College London), Fahim Kawsar (Nokia Bell Labs)*
+
+- Scaling unobtrusive sensing using raw channel state information through transfer learning  
+*Jeroen Klein Brinke (Pervasive Systems at the University of Twente), Nirvana Meratnia (Pervasive Systems at the University of Twente)*
+
+
+
+### Important Dates
+- Abstract Registration: ~~August 2, 2019~~ August 10, 2019 (11:59 pm anywhere on earth (UTC -12)) - final deadline
+- Paper Submission: ~~August 9, 2019~~ August 16, 2019 (11:59 pm anywhere on earth (UTC -12)) - absolute final deadline, no further extension
+- Notification of Paper Acceptance: ~~September 10~~ September 11, 2019
+- Camera-Ready: September 20, 2019 
+- Workshop date: November 10, 2019 (Sunday)
+
+### Call for Papers
+
+We invite researchers and practitioners to submit *papers describing original work, experiences, or vision* related to the entire lifecycle of an IoT system powered by AI and ML, including (but not limited to) the following topics:
 - AI/ML in multi-agent, distributed, and decentralized settings
 - AI/ML on low-powered and/or intermittently connected devices
 - AI/ML with noisy and possibly adversarial data and labels
@@ -27,12 +72,6 @@ All submissions should use the double column ACM proceedings format. The ACM tem
 
 **The link for submission is:** [https://aichallengeiot19.hotcrp.com/](https://aichallengeiot19.hotcrp.com/)
 
-### Important Dates
-- Abstract Registration: ~~August 2, 2019~~ August 10, 2019 (11:59 pm anywhere on earth (UTC -12)) - final deadline
-- Paper Submission: ~~August 9, 2019~~ August 16, 2019 (11:59 pm anywhere on earth (UTC -12)) - absolute final deadline, no further extension
-- Notification of Paper Acceptance: ~~September 10~~ September 11, 2019
-- Camera-Ready: September 20, 2019 
-- Workshop date: November 10, 2019 (Sunday)
 
 ### Organizers
 
