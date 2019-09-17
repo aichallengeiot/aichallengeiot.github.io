@@ -1,4 +1,4 @@
-The **First International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT 2019)** will be held in conjunction with [ACM SenSys 2019](http://sensys.acm.org/2019/) on November 10-13, 2019 in New York, NY, USA.
+The **First International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT 2019)** will be held in conjunction with [ACM SenSys 2019](http://sensys.acm.org/2019/) on November 10, 2019 in New York, NY, USA.
 
 Artificial intelligence (AI) and machine learning (ML) are key enabling technologies for many Internet of Things (IoT) applications. However, the collection and processing of data for AI and ML is very challenging in the IoT domain. For example, there are usually a large number of low-powered sensors deployed in large geographical areas with possibly intermittent network connectivity. The sensors and their collected data may be owned by different users or organizations, which can bring further obstacles to data collection due to privacy concerns and noisy labels provided by different users. The successful application of AI/ML approaches in such scenarios with noisy and decentralized data is difficult. In addition, the amount of collected data that can be used for training AI/ML models is usually proportional to the number of users in the system, but the system may not be able to attract many users without a well-trained AI/ML model, and it is challenging to solve this dilemma.
 
@@ -32,6 +32,7 @@ All submissions should use the double column ACM proceedings format. The ACM tem
 - Paper Submission: ~~August 9, 2019~~ August 16, 2019 (11:59 pm anywhere on earth (UTC -12)) - absolute final deadline, no further extension
 - Notification of Paper Acceptance: ~~September 10~~ September 11, 2019
 - Camera-Ready: September 20, 2019 
+- Workshop date: November 10, 2019 (Sunday)
 
 ### Organizers
 
