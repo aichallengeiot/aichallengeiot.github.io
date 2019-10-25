@@ -23,12 +23,15 @@ This workshop focuses on how to address the above and other unique challenges of
 ***Technical Session: Efficient and Robust AI Algorithms for IoT***
 
 **10:45 - 11:10: RC^2: Resource-efficient Collaborative Cognition Method for Internet-of-Things Devices**
+
 *Yuanyuan Bao (China Mobile Research Institute), Wai Chen (China Mobile Research Institute)*
 
 **11:10 - 11:35: Guardians of the Deep Fog: Failure-Resilient DNN Inference from Edge to Cloud**
+
 *Ashkan Yousefpour (UT Dallas, UC Berkeley), Siddartha Devic (UT Dallas), Brian Q. Nguyen (UT Dallas), Aboudy Kreidieh (UC Berkeley), Alan S. Liao (UT Dallas), Alexandre Bayen (UC Berkeley), Jason P. Jue (UT Dallas)*
 
 **11:35 - 12:00: Resource Characterisation of Personal-Scale Sensing Models on Edge Accelerators**
+
 *Mattia Antonini (FBK CREATE-NET), Tran Huy Vu (Singapore Management University), Chulhong Min (Nokia Bell Labs), Alessandro Montanari (Nokia Bell Labs), Akhil Mathur (Nokia Bell Labs and University College London), Fahim Kawsar (Nokia Bell Labs)*
 
 <br/>
@@ -40,15 +43,19 @@ This workshop focuses on how to address the above and other unique challenges of
 ***Technical Session: Privacy-preserving AI for IoT***
 
 **13:30 - 13:55: Challenges of Privacy-Preserving Machine Learning in IoT**
+
 *Mengyao Zheng (Nanyang Technological University), Dixing Xu (Nanyang Technological University), Linshan Jiang (Nanyang Technological University), Chaojie Gu (Nanyang Technological University), Rui Tan (Nanyang Technological University), Peng Cheng (Zhejiang University)*
 
 **13:55 - 14:20: Homomorphically Securing AI at the Edge**
+
 *Jakob Naucke (IBM), Hamish Hunt (IBM), Jack Crawford (IBM), Enrico Steffinlongo (IBM), Oliver Masters (IBM), Flavio Bergamaschi (IBM)*
 
 **14:20 - 14:40: Privacy is What We Care About: Experimental Investigation of Federated Learning on Edge Devices**
+
 *Anirban Das (Rensselaer Polytechnic Institute), Thomas Brunschwiler (IBM Research - Zurich)*
 
 **14:40 - 15:00: Collaborative Intelligent Cross-Camera Video Analytics at Edge: Opportunities and Challenges**
+
 *Hannaneh Barahouei Pasandi (Virginia Commonwealth University), Tamer Nadeem (Virginia Commonwealth University)*
 
 <br/>
@@ -60,12 +67,15 @@ This workshop focuses on how to address the above and other unique challenges of
 ***Technical Session: AI Systems and Applications***
 
 **15:15 - 15:40: Enhancing Support for Machine Learning and Edge Computing on an IoT Data Marketplace**
+
 *Kurian Karyakulam Sajan (University of Southern California), Gowri Sankar Ramachandran (University of Southern California), Bhaskar Krishnamachari (University of Southern California)*
 
 **15:40 - 16:05: Scaling unobtrusive sensing using raw channel state information through transfer learning**
+
 *Jeroen Klein Brinke (Pervasive Systems at the University of Twente), Nirvana Meratnia (Pervasive Systems at the University of Twente)*
 
 **16:05 - 16:30: CAM-STITCH: Trajectory Cavity Stitching Method for Stereo Vision Cameras in a Commercial Building**
+
 *Anooshmita Das (University of Southern Denmark), Emil Stubbe Kolvig-Raun (University of Southern Denmark), Mikkel Kjærgaard (University of Southern Denmark)*
 
 <br/>
