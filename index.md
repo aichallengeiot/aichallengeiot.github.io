@@ -4,47 +4,83 @@ Artificial intelligence (AI) and machine learning (ML) are key enabling technolo
 
 This workshop focuses on how to address the above and other unique challenges of applying AI/ML in IoT systems. 
 
-### Accepted papers
+### Workshop Program (Sunday, November 10, 2019)
 
-- CAM-STITCH: Trajectory Cavity Stitching Method for Stereo Vision Cameras in a Commercial Building  
-*Anooshmita Das (University of Southern Denmark), Emil Stubbe Kolvig-Raun (University of Southern Denmark), Mikkel Kjærgaard (University of Southern Denmark)*
+<br/>
 
-- Challenges of Privacy-Preserving Machine Learning in IoT  
-*Mengyao Zheng (Nanyang Technological University), Dixing Xu (Nanyang Technological University), Linshan Jiang (Nanyang Technological University), Chaojie Gu (Nanyang Technological University), Rui Tan (Nanyang Technological University), Peng Cheng (Zhejiang University)*
+**9:00 - 9:10:** ***Introduction to AIChallengeIoT*** (Shiqiang Wang & Mani Srivastava)
 
-- Collaborative Intelligent Cross-Camera Video Analytics at Edge: Opportunities and Challenges  
-*Hannaneh Barahouei Pasandi (Virginia Commonwealth University), Tamer Nadeem (Virginia Commonwealth University)*
+**9:10 - 10:10:** ***Deep Neural Network Services for IoT Applications*** (keynote speech by Tarek Abdelzaher, University of Illinois at Urbana Champaign)
 
-- Enhancing Support for Machine Learning and Edge Computing on an IoT Data Marketplace  
-*Kurian Karyakulam Sajan (University of Southern California), Gowri Sankar Ramachandran (University of Southern California), Bhaskar Krishnamachari (University of Southern California)*
+<br/>
 
-- Guardians of the Deep Fog: Failure-Resilient DNN Inference from Edge to Cloud  
-*Ashkan Yousefpour (UT Dallas, UC Berkeley), Siddartha Devic (UT Dallas), Brian Q. Nguyen (UT Dallas), Aboudy Kreidieh (UC Berkeley), Alan S. Liao (UT Dallas), Alexandre Bayen (UC Berkeley), Jason P. Jue (UT Dallas)*
+**10:10 - 10:45:** ***Demos + Morning Break***
 
-- Homomorphically Securing AI at the Edge  
-*Jakob Naucke (IBM), Hamish Hunt (IBM), Jack Crawford (IBM), Enrico Steffinlongo (IBM), Oliver Masters (IBM), Flavio Bergamaschi (IBM)*
+<br/>
 
-- Privacy is What We Care About: Experimental Investigation of Federated Learning on Edge Devices  
-*Anirban Das (Rensselaer Polytechnic Institute), Thomas Brunschwiler (IBM Research - Zurich)*
+***Technical Session: Efficient and Robust AI Algorithms for IoT***
 
-- RC^2: Resource-efficient Collaborative Cognition Method for Internet-of-Things Devices  
+**10:45 - 11:10: RC^2: Resource-efficient Collaborative Cognition Method for Internet-of-Things Devices**
 *Yuanyuan Bao (China Mobile Research Institute), Wai Chen (China Mobile Research Institute)*
 
-- Resource Characterisation of Personal-Scale Sensing Models on Edge Accelerators  
+**11:10 - 11:35: Guardians of the Deep Fog: Failure-Resilient DNN Inference from Edge to Cloud**
+*Ashkan Yousefpour (UT Dallas, UC Berkeley), Siddartha Devic (UT Dallas), Brian Q. Nguyen (UT Dallas), Aboudy Kreidieh (UC Berkeley), Alan S. Liao (UT Dallas), Alexandre Bayen (UC Berkeley), Jason P. Jue (UT Dallas)*
+
+**11:35 - 12:00: Resource Characterisation of Personal-Scale Sensing Models on Edge Accelerators**
 *Mattia Antonini (FBK CREATE-NET), Tran Huy Vu (Singapore Management University), Chulhong Min (Nokia Bell Labs), Alessandro Montanari (Nokia Bell Labs), Akhil Mathur (Nokia Bell Labs and University College London), Fahim Kawsar (Nokia Bell Labs)*
 
-- Scaling unobtrusive sensing using raw channel state information through transfer learning  
+<br/>
+
+**12:00 - 13:30:** ***Lunch Break***
+
+<br/>
+
+***Technical Session: Privacy-preserving AI for IoT***
+
+**13:30 - 13:55: Challenges of Privacy-Preserving Machine Learning in IoT**
+*Mengyao Zheng (Nanyang Technological University), Dixing Xu (Nanyang Technological University), Linshan Jiang (Nanyang Technological University), Chaojie Gu (Nanyang Technological University), Rui Tan (Nanyang Technological University), Peng Cheng (Zhejiang University)*
+
+**13:55 - 14:20: Homomorphically Securing AI at the Edge**
+*Jakob Naucke (IBM), Hamish Hunt (IBM), Jack Crawford (IBM), Enrico Steffinlongo (IBM), Oliver Masters (IBM), Flavio Bergamaschi (IBM)*
+
+**14:20 - 14:40: Privacy is What We Care About: Experimental Investigation of Federated Learning on Edge Devices**
+*Anirban Das (Rensselaer Polytechnic Institute), Thomas Brunschwiler (IBM Research - Zurich)*
+
+**14:40 - 15:00: Collaborative Intelligent Cross-Camera Video Analytics at Edge: Opportunities and Challenges**
+*Hannaneh Barahouei Pasandi (Virginia Commonwealth University), Tamer Nadeem (Virginia Commonwealth University)*
+
+<br/>
+
+**15:00 - 15:15:** ***Afternoon Break***
+
+<br/>
+
+***Technical Session: AI Systems and Applications***
+
+**15:15 - 15:40: Enhancing Support for Machine Learning and Edge Computing on an IoT Data Marketplace**
+*Kurian Karyakulam Sajan (University of Southern California), Gowri Sankar Ramachandran (University of Southern California), Bhaskar Krishnamachari (University of Southern California)*
+
+**15:40 - 16:05: Scaling unobtrusive sensing using raw channel state information through transfer learning**
 *Jeroen Klein Brinke (Pervasive Systems at the University of Twente), Nirvana Meratnia (Pervasive Systems at the University of Twente)*
+
+**16:05 - 16:30: CAM-STITCH: Trajectory Cavity Stitching Method for Stereo Vision Cameras in a Commercial Building**
+*Anooshmita Das (University of Southern Denmark), Emil Stubbe Kolvig-Raun (University of Southern Denmark), Mikkel Kjærgaard (University of Southern Denmark)*
+
+<br/>
+
+**16:30 - 17:30:** ***Panel discussion: Efficient and trustworthy AI at the IoT edge***
+
+<br/>
 
 ### Workshop Registration
 
 Please register for the workshop on the SenSys website: [http://sensys.acm.org/2019/registration/](http://sensys.acm.org/2019/registration/)
 
 ### Important Dates
-- Abstract Registration: ~~August 2, 2019~~ August 10, 2019 (11:59 pm anywhere on earth (UTC -12)) - final deadline
-- Paper Submission: ~~August 9, 2019~~ August 16, 2019 (11:59 pm anywhere on earth (UTC -12)) - absolute final deadline, no further extension
-- Notification of Paper Acceptance: ~~September 10~~ September 11, 2019
-- Camera-Ready: September 20, 2019 
+- Abstract Registration: ~~August 10, 2019 (11:59 pm anywhere on earth (UTC -12))~~
+- Paper Submission: ~~August 16, 2019 (11:59 pm anywhere on earth (UTC -12))~~
+- Notification of Paper Acceptance: ~~September 11, 2019~~
+- Camera-Ready: ~~September 20, 2019~~
 - Workshop date: November 10, 2019 (Sunday)
 
 ### Call for Papers
