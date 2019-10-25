@@ -78,7 +78,9 @@ This workshop focuses on how to address the above and other unique challenges of
 
 Please register for the workshop on the SenSys website: [http://sensys.acm.org/2019/registration/](http://sensys.acm.org/2019/registration/)
 
-The call for papers is available [here](cfp.md).
+The call for papers (now closed) is available [here](cfp.md).
+
+<br/>
 
 ### Organizers
 
