@@ -77,13 +77,23 @@ Panelists:
 [Rajesh K. Gupta](http://mesl.ucsd.edu/) (University of California, San Diego)  
 [Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/) (University of Southern California)  
 [Mudhakar Srivatsa](https://researcher.watson.ibm.com/researcher/view.php?person=us-msrivats) (IBM T. J. Watson Research Center)  
-(to be finalized)
+*(incomplete list, to be finalized)*
 
 <br/>
 
 ### Workshop Registration
 
 Please register for the workshop on the SenSys website: [http://sensys.acm.org/2019/registration/](http://sensys.acm.org/2019/registration/)
+
+<br/>
+
+### Venue
+
+Please follow the ***workshop venue*** at [http://sensys.acm.org/2019/venue/](http://sensys.acm.org/2019/venue/)
+
+<br/>
+
+### Call for Papers
 
 The call for papers (now closed) is available [here](cfp.md).
 
