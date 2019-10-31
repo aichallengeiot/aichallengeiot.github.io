@@ -70,7 +70,7 @@ This workshop focuses on how to address the above and other unique challenges of
 
 <br/>
 
-**16:30 - 17:30:** ***Panel discussion: Efficient and trustworthy AI at the IoT edge***  
+**16:30 - 17:30:** ***Panel discussion: Efficient and Trustworthy AI at the IoT Edge***  
 [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles)  
 [Rajesh K. Gupta](http://mesl.ucsd.edu/) (University of California, San Diego)  
 [Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/) (University of Southern California)  
