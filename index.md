@@ -17,7 +17,7 @@ Keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), Univer
 
 <br/>
 
-**10:15 - 10:45:** ***Morning Break***
+**10:15 - 10:45:** ***Networking & Morning Break***
 
 <br/>
 
