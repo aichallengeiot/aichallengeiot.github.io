@@ -10,13 +10,13 @@ This workshop focuses on how to address the above and other unique challenges of
 
 <br/>
 
-**9:00 - 9:10:** ***Introduction to AIChallengeIoT*** (Shiqiang Wang & Mani Srivastava)
+**9:00 - 9:15:** ***Introduction to AIChallengeIoT*** (Shiqiang Wang & Mani Srivastava)
 
-**9:10 - 10:10:** ***Deep Neural Network Services for IoT Applications*** (keynote speech by Tarek Abdelzaher, University of Illinois at Urbana Champaign)
+**9:15 - 10:15:** ***Deep Neural Network Services for IoT Applications*** (keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), University of Illinois at Urbana Champaign)
 
 <br/>
 
-**10:10 - 10:45:** ***Demos + Morning Break***
+**10:15 - 10:45:** ***Morning Break***
 
 <br/>
 
@@ -70,7 +70,11 @@ This workshop focuses on how to address the above and other unique challenges of
 
 <br/>
 
-**16:30 - 17:30:** ***Panel discussion: Efficient and trustworthy AI at the IoT edge***
+**16:30 - 17:30:** ***Panel discussion: Efficient and trustworthy AI at the IoT edge***  
+[Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles)  
+[Rajesh K. Gupta](http://mesl.ucsd.edu/) (University of California, San Diego)  
+[Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/) (University of Southern California)  
+[Mudhakar Srivatsa](https://researcher.watson.ibm.com/researcher/view.php?person=us-msrivats) (IBM T. J. Watson Research Center)
 
 <br/>
 
