@@ -12,7 +12,7 @@ This workshop focuses on how to address the above and other unique challenges of
 
 **9:00 - 9:15:** ***Introduction to AIChallengeIoT*** (Shiqiang Wang & Mani Srivastava)
 
-**9:15 - 10:15:** ***Deep Neural Network Services for IoT Applications*** 
+**9:15 - 10:15:** ***Deep Neural Network Services for IoT Applications***  
 Keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), University of Illinois at Urbana Champaign
 
 <br/>
