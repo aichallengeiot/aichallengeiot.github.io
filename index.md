@@ -72,7 +72,8 @@ Keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), Univer
 <br/>
 
 **16:30 - 17:30:** ***Panel discussion: Efficient and Trustworthy AI at the IoT Edge***  
-[Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles)  
+Moderator: [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles)  
+Panelists:  
 [Rajesh K. Gupta](http://mesl.ucsd.edu/) (University of California, San Diego)  
 [Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/) (University of Southern California)  
 [Mudhakar Srivatsa](https://researcher.watson.ibm.com/researcher/view.php?person=us-msrivats) (IBM T. J. Watson Research Center)
