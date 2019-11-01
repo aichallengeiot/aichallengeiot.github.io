@@ -1,5 +1,9 @@
 ### Call for Papers for AIChallengeIoT 2019 Workshop
 
+Artificial intelligence (AI) and machine learning (ML) are key enabling technologies for many Internet of Things (IoT) applications. However, the collection and processing of data for AI and ML is very challenging in the IoT domain. For example, there are usually a large number of low-powered sensors deployed in large geographical areas with possibly intermittent network connectivity. The sensors and their collected data may be owned by different users or organizations, which can bring further obstacles to data collection due to privacy concerns and noisy labels provided by different users. The successful application of AI/ML approaches in such scenarios with noisy and decentralized data is difficult. In addition, the amount of collected data that can be used for training AI/ML models is usually proportional to the number of users in the system, but the system may not be able to attract many users without a well-trained AI/ML model, and it is challenging to solve this dilemma.
+
+This workshop focuses on how to address the above and other unique challenges of applying AI/ML in IoT systems. 
+
 We invite researchers and practitioners to submit *papers describing original work, experiences, or vision* related to the entire lifecycle of an IoT system powered by AI and ML, including (but not limited to) the following topics:
 - AI/ML in multi-agent, distributed, and decentralized settings
 - AI/ML on low-powered and/or intermittently connected devices
