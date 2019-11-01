@@ -10,7 +10,7 @@ This workshop focuses on how to address the above and other unique challenges of
 
 <br/>
 
-**9:00 - 9:15:** ***Introduction to AIChallengeIoT*** (Shiqiang Wang & Mani Srivastava)
+**9:00 - 9:15:** ***[Introduction to AIChallengeIoT](https://portalparts.acm.org/3370000/3363347/fm/frontmatter.pdf)*** (Shiqiang Wang & Mani Srivastava)
 
 **9:15 - 10:15:** ***Deep Neural Network Services for IoT Applications***  
 Keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), University of Illinois at Urbana Champaign
@@ -21,15 +21,16 @@ Keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), Univer
 
 <br/>
 
-***Technical Session: Efficient and Robust AI Algorithms for IoT***
+***Technical Session: Efficient and Robust AI Algorithms for IoT***  
+*Session chair: Shiqiang Wang (IBM T. J. Watson Research Center)*
 
-**10:45 - 11:10: RC^2: Resource-efficient Collaborative Cognition Method for Internet-of-Things Devices**  
+**10:45 - 11:10: [RC^2: Resource-efficient Collaborative Cognition Method for Internet-of-Things Devices](https://dl.acm.org/citation.cfm?id=3363359)**  
 *Yuanyuan Bao (China Mobile Research Institute), Wai Chen (China Mobile Research Institute)*
 
-**11:10 - 11:35: Guardians of the Deep Fog: Failure-Resilient DNN Inference from Edge to Cloud**  
+**11:10 - 11:35: [Guardians of the Deep Fog: Failure-Resilient DNN Inference from Edge to Cloud](https://dl.acm.org/citation.cfm?id=3363366)**  
 *Ashkan Yousefpour (UT Dallas, UC Berkeley), Siddartha Devic (UT Dallas), Brian Q. Nguyen (UT Dallas), Aboudy Kreidieh (UC Berkeley), Alan S. Liao (UT Dallas), Alexandre Bayen (UC Berkeley), Jason P. Jue (UT Dallas)*
 
-**11:35 - 12:00: Resource Characterisation of Personal-Scale Sensing Models on Edge Accelerators**  
+**11:35 - 12:00: [Resource Characterisation of Personal-Scale Sensing Models on Edge Accelerators](https://dl.acm.org/citation.cfm?id=3363363)**  
 *Mattia Antonini (FBK CREATE-NET), Tran Huy Vu (Singapore Management University), Chulhong Min (Nokia Bell Labs), Alessandro Montanari (Nokia Bell Labs), Akhil Mathur (Nokia Bell Labs and University College London), Fahim Kawsar (Nokia Bell Labs)*
 
 <br/>
@@ -38,18 +39,19 @@ Keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), Univer
 
 <br/>
 
-***Technical Session: Privacy-preserving AI for IoT***
+***Technical Session: Privacy-preserving AI for IoT***  
+*Session chair: Chulhong Min (Nokia Bell Labs)*
 
-**13:30 - 13:55: Challenges of Privacy-Preserving Machine Learning in IoT**  
+**13:30 - 13:55: [Challenges of Privacy-Preserving Machine Learning in IoT](https://dl.acm.org/citation.cfm?id=3363357)**  
 *Mengyao Zheng (Nanyang Technological University), Dixing Xu (Nanyang Technological University), Linshan Jiang (Nanyang Technological University), Chaojie Gu (Nanyang Technological University), Rui Tan (Nanyang Technological University), Peng Cheng (Zhejiang University)*
 
-**13:55 - 14:20: Homomorphically Securing AI at the Edge**  
+**13:55 - 14:20: [Homomorphically Securing AI at the Edge](https://dl.acm.org/citation.cfm?id=3363361)**  
 *Jakob Naucke (IBM), Hamish Hunt (IBM), Jack Crawford (IBM), Enrico Steffinlongo (IBM), Oliver Masters (IBM), Flavio Bergamaschi (IBM)*
 
-**14:20 - 14:40: Privacy is What We Care About: Experimental Investigation of Federated Learning on Edge Devices**  
+**14:20 - 14:40: [Privacy is What We Care About: Experimental Investigation of Federated Learning on Edge Devices](https://dl.acm.org/citation.cfm?id=3363365)**  
 *Anirban Das (Rensselaer Polytechnic Institute), Thomas Brunschwiler (IBM Research - Zurich)*
 
-**14:40 - 15:00: Collaborative Intelligent Cross-Camera Video Analytics at Edge: Opportunities and Challenges**  
+**14:40 - 15:00: [Collaborative Intelligent Cross-Camera Video Analytics at Edge: Opportunities and Challenges](https://dl.acm.org/citation.cfm?id=3363360)**  
 *Hannaneh Barahouei Pasandi (Virginia Commonwealth University), Tamer Nadeem (Virginia Commonwealth University)*
 
 <br/>
@@ -58,15 +60,16 @@ Keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), Univer
 
 <br/>
 
-***Technical Session: AI Systems and Applications***
+***Technical Session: AI Systems and Applications***  
+*Session chair: Rui Tan (Nanyang Technological University)*
 
-**15:15 - 15:40: Enhancing Support for Machine Learning and Edge Computing on an IoT Data Marketplace**  
+**15:15 - 15:40: [Enhancing Support for Machine Learning and Edge Computing on an IoT Data Marketplace](https://dl.acm.org/citation.cfm?id=3363364)**  
 *Kurian Karyakulam Sajan (University of Southern California), Gowri Sankar Ramachandran (University of Southern California), Bhaskar Krishnamachari (University of Southern California)*
 
-**15:40 - 16:05: Scaling unobtrusive sensing using raw channel state information through transfer learning**  
+**15:40 - 16:05: [Scaling unobtrusive sensing using raw channel state information through transfer learning](https://dl.acm.org/citation.cfm?id=3363362)**  
 *Jeroen Klein Brinke (Pervasive Systems at the University of Twente), Nirvana Meratnia (Pervasive Systems at the University of Twente)*
 
-**16:05 - 16:30: CAM-STITCH: Trajectory Cavity Stitching Method for Stereo Vision Cameras in a Commercial Building**  
+**16:05 - 16:30: [CAM-STITCH: Trajectory Cavity Stitching Method for Stereo Vision Cameras in a Commercial Building](https://dl.acm.org/citation.cfm?id=3363358)**  
 *Anooshmita Das (University of Southern Denmark), Emil Stubbe Kolvig-Raun (University of Southern Denmark), Mikkel Kjærgaard (University of Southern Denmark)*
 
 <br/>
