@@ -8,7 +8,7 @@ The **First International Workshop on Challenges in Artificial Intelligence and 
 
 **9:00 - 9:15:** ***[Introduction to AIChallengeIoT](https://portalparts.acm.org/3370000/3363347/fm/frontmatter.pdf)*** (Shiqiang Wang & Mani Srivastava)
 
-**9:15 - 10:15:** ***Deep Neural Network Services for IoT Applications***  
+**9:15 - 10:15:** ***[Deep Neural Network Services for IoT Applications](keynote.md)***  
 Keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), University of Illinois at Urbana Champaign
 
 <br/>
