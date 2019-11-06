@@ -6,10 +6,13 @@ The **First International Workshop on Challenges in Artificial Intelligence and 
 
 <br/>
 
+**8:30 - 9:00:** ***Arrival*** (Venue: Floor 5, Room - Hamilton 503)
+
 **9:00 - 9:15:** ***[Introduction to AIChallengeIoT](https://portalparts.acm.org/3370000/3363347/fm/frontmatter.pdf)*** (Shiqiang Wang & Mani Srivastava)
 
 **9:15 - 10:15:** ***[Deep Neural Network Services for IoT Applications](keynote.md)***  
-Keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), University of Illinois at Urbana Champaign
+Keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), University of Illinois at Urbana Champaign  
+(Joint with [SenSys-ML](https://sensysml.github.io/) workshop)
 
 <br/>
 
@@ -71,6 +74,7 @@ Keynote speech by [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/), Univer
 <br/>
 
 **16:30 - 17:30:** ***Panel discussion: Efficient and Trustworthy AI at the IoT Edge***  
+(Joint with [SenSys-ML](https://sensysml.github.io/) workshop)  
 Moderator: [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles)  
 Panelists:  
 [Rajesh K. Gupta](http://mesl.ucsd.edu/) (University of California, San Diego)  
