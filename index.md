@@ -76,7 +76,6 @@ Panelists:
 [Rajesh K. Gupta](http://mesl.ucsd.edu/) (University of California, San Diego)  
 [Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/) (University of Southern California)  
 [Mudhakar Srivatsa](https://researcher.watson.ibm.com/researcher/view.php?person=us-msrivats) (IBM T. J. Watson Research Center)  
-*(incomplete list, to be finalized)*
 
 <br/>
 
