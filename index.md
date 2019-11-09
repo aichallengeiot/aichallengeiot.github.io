@@ -6,7 +6,7 @@ The **First International Workshop on Challenges in Artificial Intelligence and 
 
 <br/>
 
-**8:30 - 9:00:** ***Arrival*** (Venue: Floor 5, Room - Hamilton 503)
+**8:30 - 9:00:** ***Arrival*** (Venue: Floor 5, Room - Hamilton 503, [Hamilton Hall](https://goo.gl/maps/8kaA3C1VcNGScxGZ8), Columbia University)
 
 <br/>
 
