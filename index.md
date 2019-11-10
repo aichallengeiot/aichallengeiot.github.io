@@ -83,6 +83,7 @@ Moderator: [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (Universi
 Panelists:  
 [Rajesh K. Gupta](http://mesl.ucsd.edu/) (University of California, San Diego)  
 [Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/) (University of Southern California)  
+[Valerie Liptak](https://www.linkedin.com/in/valerie-liptak-b0854b12/) (Amazon)  
 [Mudhakar Srivatsa](https://researcher.watson.ibm.com/researcher/view.php?person=us-msrivats) (IBM T. J. Watson Research Center)  
 
 <br/>
