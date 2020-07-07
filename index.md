@@ -27,7 +27,7 @@ Submitted papers should be previously unpublished and not currently under review
 
 All submissions should use the double column ACM proceedings format. The ACM template is available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). LaTeX submissions should use the acmart.cls template (sigconf option), with the default 9-pt font. This format will be used also for the camera-ready version of accepted regular and vision/position papers. The submissions should include authors' names and affiliations (i.e., *not* be double-blind). Submissions will be reviewed by the program committee for novelty, relevance, and quality. At least one of the authors of every accepted paper/presentation must register and present the work at the workshop. Submissions should be in Adobe Portable Document Format (PDF).
 
-**The link for submission is:** TBD
+**The link for submission is:** [https://aichallengeiot20.hotcrp.com/](https://aichallengeiot20.hotcrp.com/)
 
 #### Important Dates
 - Abstract Registration: September 11, 2020 (11:59 pm anywhere on earth (UTC -12))
