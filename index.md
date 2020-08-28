@@ -49,17 +49,42 @@ AIChallengeIoT partners with [SenSys-ML](https://sensysml.github.io/). Both work
 
 
 
-#### Organizing committee
+#### Organizing Committee
+
+##### Program Chairs
 
 - [Shiqiang Wang](https://researcher.watson.ibm.com/researcher/view.php?person=us-wangshiq) (IBM T. J. Watson Research Center, USA)
 - [Poonam Yadav](https://poonamyadav.net) (University of York, UK)
+
+##### Steering Committee
+
+- [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles, USA)
 - [Ludmila (Lucy) Cherkasova](http://www.jahrhundert.net/lucy_cherkasova.html) (ARM Research, USA)
 - [Valerie Liptak](https://www.linkedin.com/in/valerie-liptak-b0854b12/) (Amazon, USA)
 - [Jorge Ortiz](http://jorgeortizphd.info/) (Rutgers University, USA)
-- [Shaswot Shresthamali](https://www.linkedin.com/in/shaswot-sm/) (The University of Tokyo)
-- [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles, USA)
 - [Vinesh Sukumar](https://www.linkedin.com/in/vineshsukumar/) (Intel, USA)
 
+##### Publicity Chair
+
+- [Shaswot Shresthamali](https://www.linkedin.com/in/shaswot-sm/) (The University of Tokyo)
+
+##### Program Committee
+- [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) (University of Illinois at Urbana Champaign, USA)
+- [Bharathan Balaji](https://www.synergylabs.org/bharath/) (Amazon AI Lab, USA)
+- [Dong Chen](http://users.cis.fiu.edu/~dochen/index.html) (Florida International University, USA)
+- [Valerie Liptak](https://www.linkedin.com/in/valerie-liptak-b0854b12/), Amazon, USA
+- [Manik Gupta](https://www.bits-pilani.ac.in/hyderabad/manik/Profile), BITS Pilani, Hyderabad, India 
+- [Syed Shabih Hasan](https://sites.google.com/site/hasanshabih/), Delos Labs, USA
+- [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/), Cambridge University, UK
+- [Akshay Nambi](https://www.microsoft.com/en-us/research/people/akshayn/), Microsoft Research, India
+- [Diana Popescu](https://www.cl.cam.ac.uk/~dap53/), Cambridge University, UK
+- [Urmish Thakker](https://urmish.github.io/), ARM, USA
+- [Stylianos I. Venieris](https://steliosven10.github.io/), Samsung AI Center Cambridge, UK
+- [Lin Wang](http://linwang.info/) (Vrije Universiteit Amsterdam, Netherlands)
+- [Ashkan Yousefpour](http://www.utdallas.edu/~ashkan/) (University of Texas at Dallas / University of California, Berkeley, USA)
+- [Cong Zhao](https://wp.doc.ic.ac.uk/aese/person/cong-zhao/) (Imperial College London, UK)
+
+(more to be added)
 
 
 
