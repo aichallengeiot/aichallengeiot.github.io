@@ -32,8 +32,8 @@ The organizing committee will select a *best paper award* among submitted papers
 **The link for submission is:** [https://aichallengeiot20.hotcrp.com/](https://aichallengeiot20.hotcrp.com/)
 
 #### Important Dates
-- Abstract Registration: ~~September 11, 2020~~ extended to September 18, 2020 (11:59 pm anywhere on earth (UTC -12))
-- Paper Submission: September 18, 2020 (11:59 pm anywhere on earth (UTC -12))
+- Abstract Registration: ~~September 11, 2020~~ FINAL deadline - September 20, 2020 (11:59 pm anywhere on earth (UTC -12))
+- Paper Submission: ~~September 18, 2020~~  FINAL deadline - September 20, 2020 (11:59 pm anywhere on earth (UTC -12))
 - Notification of Paper Acceptance: October 9, 2020
 - Camera-Ready: October 16, 2020
 - Workshop date: November 16, 2020
@@ -74,6 +74,8 @@ AIChallengeIoT partners with [SenSys-ML](https://sensysml.github.io/). Both work
 - [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) (University of Illinois at Urbana Champaign, USA)
 - [Bharathan Balaji](https://www.synergylabs.org/bharath/) (Amazon AI Lab, USA)
 - [Dong Chen](http://users.cis.fiu.edu/~dochen/index.html) (Florida International University, USA)
+- [Xiaofan (Fred) Jiang](http://fredjiang.com/) (Columbia University, USA)
+- [Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/) (Carnegie Mellon University, USA)
 - [Liangzhen Lai](https://www.linkedin.com/in/liangzhen-lai-379ba9b5/) (Facebook, USA)
 - [Valerie Liptak](https://www.linkedin.com/in/valerie-liptak-b0854b12/) (Amazon, USA)
 - [Manik Gupta](https://www.bits-pilani.ac.in/hyderabad/manik/Profile) (BITS Pilani, Hyderabad, India)
@@ -84,6 +86,7 @@ AIChallengeIoT partners with [SenSys-ML](https://sensysml.github.io/). Both work
 - [Urmish Thakker](https://urmish.github.io/) (ARM, USA)
 - [Stylianos I. Venieris](https://steliosven10.github.io/) (Samsung AI Center Cambridge, UK)
 - [Lin Wang](http://linwang.info/) (Vrije Universiteit Amsterdam, Netherlands)
+- [Shuochao Yao](https://yscacaca.github.io/) (George Mason University, USA)
 - [Ashkan Yousefpour](http://www.utdallas.edu/~ashkan/) (Facebook, USA)
 - [Cong Zhao](https://wp.doc.ic.ac.uk/aese/person/cong-zhao/) (Imperial College London, UK)
 
