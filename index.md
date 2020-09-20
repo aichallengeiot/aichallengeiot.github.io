@@ -74,6 +74,7 @@ AIChallengeIoT partners with [SenSys-ML](https://sensysml.github.io/). Both work
 - [Tarek Abdelzaher](http://abdelzaher.cs.illinois.edu/) (University of Illinois at Urbana Champaign, USA)
 - [Bharathan Balaji](https://www.synergylabs.org/bharath/) (Amazon AI Lab, USA)
 - [Dong Chen](http://users.cis.fiu.edu/~dochen/index.html) (Florida International University, USA)
+- [Fatemeh Jalali](https://researcher.watson.ibm.com/researcher/view.php?person=au1-fa.jalali) (IBM Research, Australia)
 - [Xiaofan (Fred) Jiang](http://fredjiang.com/) (Columbia University, USA)
 - [Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/) (Carnegie Mellon University, USA)
 - [Liangzhen Lai](https://www.linkedin.com/in/liangzhen-lai-379ba9b5/) (Facebook, USA)
@@ -88,9 +89,9 @@ AIChallengeIoT partners with [SenSys-ML](https://sensysml.github.io/). Both work
 - [Lin Wang](http://linwang.info/) (Vrije Universiteit Amsterdam, Netherlands)
 - [Shuochao Yao](https://yscacaca.github.io/) (George Mason University, USA)
 - [Ashkan Yousefpour](http://www.utdallas.edu/~ashkan/) (Facebook, USA)
+- [Hazar Yueksel](http://researcher.watson.ibm.com/researcher/view.php?person=ibm-Hazar.Yueksel) (IBM Research, USA)
 - [Cong Zhao](https://wp.doc.ic.ac.uk/aese/person/cong-zhao/) (Imperial College London, UK)
 
-(more to be added)
 
 
 
