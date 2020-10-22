@@ -4,34 +4,34 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 #### Accepted Papers
 
-**MetaDigit: Towards A Practical Digits Input System with Few User Effort**
+**MetaDigit: Towards A Practical Digits Input System with Few User Effort**  
 *Shicong Hong, Zhihong Xiao, Zishuo Guo, Yongpan Zou, Kaishun Wu (Shenzhen University)*
 
-**Incremental On-Device Tiny Machine Learning**
+**Incremental On-Device Tiny Machine Learning**  
 *Simone Disabato, Manuel Roveri (Politecnico di Milano)*
 
-**Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression**
+**Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression**  
 *Colin Samplawski, Jin Huang, Deepak Ganesan, Benjamin Marlin (UMass Amherst)*
 
-**Pushing the Envelope of Dynamic Spatial Gating technologies**
+**Pushing the Envelope of Dynamic Spatial Gating technologies**  
 *Xueqin Huang (Texas A & M University); Urmish Thakker (University of Wisconsin Madison); Dibakar Gope, Jesse Beu (Arm ML Research Lab)*
 
-**Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions	**
+**Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions**  
 *Ravi Raju, Dibakar Gope, Urmish Thakker, Jesse Beu (Arm ML Research Lab)*
 
-**Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation**
+**Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation**  
 *Seulki Lee, Shahriar Nirjon (University of North Carolina at Chapel Hill)*
 
-**PAMS: Improving Privacy in Audio-Based Mobile Systems**
+**PAMS: Improving Privacy in Audio-Based Mobile Systems**  
 *Stephen Xia, Xiaofan Jiang (Columbia University)*
 
-**A Low footprint Automatic Speech Recognition System For Resource Constrained Edge Devices**
+**A Low footprint Automatic Speech Recognition System For Resource Constrained Edge Devices**  
 *Swarnava Dey, Jeet Dutta (TCS Research and Innovation, Tata Consultancy Services Ltd.)*
 
-**Deep Associated Elastic Tracker for Intelligent Traffic Intersections**
+**Deep Associated Elastic Tracker for Intelligent Traffic Intersections**  
 *Kaikai Liu (San Jose State University)*
 
-**Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms**
+**Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms**  
 *Poonam Yadav, Angelo Feraudo (University of York); Budi Arief (University of Kent); Siamak F. Shahandashti, Vassilios G. Vassilakis (University of York)*
 
 
