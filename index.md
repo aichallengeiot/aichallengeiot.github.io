@@ -1,38 +1,105 @@
 The **2nd International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT 2020)** will be held in conjunction with [ACM SenSys 2020](http://sensys.acm.org/2020/) on November 16, 2020.
 
+<br/>
+
+### Workshop Program (Monday, November 16, 2020)
+
+<br/>
+
+**NOTE: All times below are in Coordinated Universal Time (UTC), to convert to your local time zone, you may visit [here](https://time.is/compare/0100PM_16_Nov_2020_in_UTC)**
+
+<br/>
+
+**1:00 - 1:10 pm UTC: Welcome & Opening Remarks**
+
+<br/>
+
+***Technical Session 1***
+
+**1:10 - 1:30 pm UTC: MetaDigit: Towards A Practical Digits Input System with Few User Effort**  
+*Shicong Hong, Zhihong Xiao, Zishuo Guo, Yongpan Zou, Kaishun Wu (Shenzhen University)*
+
+**1:30 - 1:50 pm UTC: A Low footprint Automatic Speech Recognition System For Resource Constrained Edge Devices**  
+*Swarnava Dey, Jeet Dutta (TCS Research and Innovation, Tata Consultancy Services Ltd.)*
+
+**1:50 - 2:10 pm UTC: Incremental On-Device Tiny Machine Learning**  
+*Simone Disabato, Manuel Roveri (Politecnico di Milano)*
+
+<br/>
+
+**2:10 - 2:15 pm UTC: Break**
+
+<br/>
+
+***Technical Session 2***
+
+**2:15 - 2:35 pm UTC: Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms**  
+*Poonam Yadav, Angelo Feraudo (University of York); Budi Arief (University of Kent); Siamak F. Shahandashti, Vassilios G. Vassilakis (University of York)*
+
+**2:35 - 2:55 pm UTC: Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression**  
+*Colin Samplawski, Jin Huang, Deepak Ganesan, Benjamin Marlin (UMass Amherst)*
+
+<br/>
+
+**2:55 - 3:00 pm UTC: Break**
+
+<br/>
+
+**3:00 - 3:55 pm UTC: Keynote Talk**
+
+<br/>
+
+**3:55 - 4:00 pm UTC: Break**
+
+<br/>
+
+**4:00 - 5:00 pm UTC: Panel Discussion: Sustainable AI at the edge: deploying systems that work today and tomorrow**
+
+<br/>
+
+**5:00 - 5:25 pm UTC: Break**
+
+<br/>
+
+***Technical Session 3***
+
+**5:25 - 5:45 pm UTC: PAMS: Improving Privacy in Audio-Based Mobile Systems**  
+*Stephen Xia, Xiaofan Jiang (Columbia University)*
+
+**5:45 - 6:05 pm UTC: Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation**  
+*Seulki Lee, Shahriar Nirjon (University of North Carolina at Chapel Hill)*
+
+**6:05 - 6:25 pm UTC: Pushing the Envelope of Dynamic Spatial Gating technologies**  
+*Xueqin Huang (Texas A & M University); Urmish Thakker (University of Wisconsin Madison); Dibakar Gope, Jesse Beu (Arm ML Research Lab)*
+
+<br/>
+
+**6:25 - 6:30 pm UTC: Break**
+
+<br/>
+
+***Technical Session 4***
+
+**6:30 - 6:50 pm UTC: Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions**  
+*Ravi Raju, Dibakar Gope, Urmish Thakker, Jesse Beu (Arm ML Research Lab)*
+
+**6:50 - 7:10 pm UTC: Deep Associated Elastic Tracker for Intelligent Traffic Intersections**  
+*Kaikai Liu (San Jose State University)*
+
+<br/>
+
+**7:10 - 7:20 pm UTC: Closing Remarks**
 
 
 #### Accepted Papers
 
-**MetaDigit: Towards A Practical Digits Input System with Few User Effort**  
-*Shicong Hong, Zhihong Xiao, Zishuo Guo, Yongpan Zou, Kaishun Wu (Shenzhen University)*
 
-**Incremental On-Device Tiny Machine Learning**  
-*Simone Disabato, Manuel Roveri (Politecnico di Milano)*
 
-**Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression**  
-*Colin Samplawski, Jin Huang, Deepak Ganesan, Benjamin Marlin (UMass Amherst)*
 
-**Pushing the Envelope of Dynamic Spatial Gating technologies**  
-*Xueqin Huang (Texas A & M University); Urmish Thakker (University of Wisconsin Madison); Dibakar Gope, Jesse Beu (Arm ML Research Lab)*
 
-**Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions**  
-*Ravi Raju, Dibakar Gope, Urmish Thakker, Jesse Beu (Arm ML Research Lab)*
 
-**Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation**  
-*Seulki Lee, Shahriar Nirjon (University of North Carolina at Chapel Hill)*
 
-**PAMS: Improving Privacy in Audio-Based Mobile Systems**  
-*Stephen Xia, Xiaofan Jiang (Columbia University)*
 
-**A Low footprint Automatic Speech Recognition System For Resource Constrained Edge Devices**  
-*Swarnava Dey, Jeet Dutta (TCS Research and Innovation, Tata Consultancy Services Ltd.)*
-
-**Deep Associated Elastic Tracker for Intelligent Traffic Intersections**  
-*Kaikai Liu (San Jose State University)*
-
-**Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms**  
-*Poonam Yadav, Angelo Feraudo (University of York); Budi Arief (University of Kent); Siamak F. Shahandashti, Vassilios G. Vassilakis (University of York)*
 
 
 
