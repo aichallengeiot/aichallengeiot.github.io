@@ -1,12 +1,18 @@
 The **2nd International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT 2020)** will be held in conjunction with [ACM SenSys 2020](http://sensys.acm.org/2020/) on November 16, 2020.
 
+
+
+**<u>Registration:</u>** All workshop attendees (including paper authors) are required to register at the [SenSys registration page](http://sensys.acm.org/2020/registration/). The registration is FREE.
+
+
+
 <br/>
 
 ### Workshop Program (Monday, November 16, 2020)
 
 <br/>
 
-**NOTE: All times below are in Coordinated Universal Time (UTC), to convert to your local time zone, you may visit [here](https://time.is/compare/0100PM_16_Nov_2020_in_UTC)**
+**NOTE: All times below are in Coordinated Universal Time (UTC). To convert to your local time zone, you may visit [here](https://time.is/compare/0100PM_16_Nov_2020_in_UTC)**.
 
 <br/>
 
