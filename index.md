@@ -90,16 +90,7 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 **7:10 - 7:20 pm UTC: Closing Remarks**
 
-
-#### Accepted Papers
-
-
-
-
-
-
-
-
+<br/>
 
 
 
