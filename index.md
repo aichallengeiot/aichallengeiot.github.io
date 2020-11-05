@@ -51,7 +51,7 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 <br/>
 
-**3:00 - 3:55 pm UTC: Keynote Talk**
+**3:00 - 3:55 pm UTC: Keynote by [Nicholas Lane](http://niclane.org/)** (University of Cambridge and Samsung AI, UK)
 
 <br/>
 
@@ -59,7 +59,12 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 <br/>
 
-**4:00 - 5:00 pm UTC: Panel Discussion: Sustainable AI at the edge: deploying systems that work today and tomorrow**
+**4:00 - 5:00 pm UTC: Panel Discussion: Sustainable AI at the edge: deploying systems that work today and tomorrow**  
+Panelists (incomplete list):  
+- [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi) (Imperial College London, UK)
+- [Santosh Kumar](https://md2k.org/santosh.html) (University of Memphis, USA)
+- [Valerie Liptak](https://www.linkedin.com/in/valerie-liptak-b0854b12/) (Amazon, USA)
+
 
 <br/>
 
