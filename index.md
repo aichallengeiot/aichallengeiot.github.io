@@ -4,7 +4,7 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 **<u>Registration:</u>** All workshop attendees (including paper authors) are required to register at the [SenSys registration page](http://sensys.acm.org/2020/registration/). The registration is FREE.
 
-
+<u>**Location:**</u> Virtual (online)
 
 <br/>
 
