@@ -13,15 +13,15 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 <br/>
 
 **NOTE: All times below are in Coordinated Universal Time (UTC). To convert to your local time zone, you may visit [here](https://time.is/compare/0100PM_16_Nov_2020_in_UTC)**.  
-Some examples:
-PST (U.S. Pacific) = UTC-8  
-EST (U.S. Eastern) = UTC-5  
-GMT (UK) = UTC+0  
-CET (Central Europe) = UTC+1  
-IST (India) = UTC+5:30  
-CST (China) = UTC+8  
-JST (Japan) = UTC+9
+Some examples:  
 
+- PST (U.S. Pacific) = UTC-8
+- EST (U.S. Eastern) = UTC-5 
+- GMT (UK) = UTC+0  
+- CET (Central Europe) = UTC+1  
+- IST (India) = UTC+5:30  
+- CST (China) = UTC+8  
+- JST (Japan) = UTC+9
 
 <br/>
 
