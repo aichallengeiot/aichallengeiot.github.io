@@ -21,14 +21,14 @@ function displayDate(dt) {
 }
 
 function getLocalTimezone() {
-  return Intl.DateTimeFormat().resolvedOptions().timeZone
+  return Intl.DateTimeFormat().resolvedOptions().timeZone;
 }
 
 function writeTimeRange(var startTime, var endTime) {
-  var startTimeObj = new Date("2020-11-16T" + startTime + ":00.000+00:00")
-  var endTimeObj = new Date("2020-11-16T" + endTime + ":00.000+00:00")
+  var startTimeObj = new Date("2020-11-16T" + startTime + ":00.000+00:00");
+  var endTimeObj = new Date("2020-11-16T" + endTime + ":00.000+00:00");
 
-  return document.write(displayDate(startTimeObj) + " - " + displayDate(endTimeObj) + " (" + getLocalTimezone() +")")
+  return document.write(displayDate(startTimeObj) + " - " + displayDate(endTimeObj) + " (" + getLocalTimezone() +")");
 }
 </script>
 
