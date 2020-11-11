@@ -17,8 +17,18 @@ function displayDate(dt) {
     temp = '12';
   temp += ((minute < 10) ? ':0' : ':') + minute;
   temp += (hour >= 12) ? ' PM' : ' AM';
-  temp += " (" + Intl.DateTimeFormat().resolvedOptions().timeZone + ")";
   return temp;
+}
+
+function getLocalTimezone() {
+  return Intl.DateTimeFormat().resolvedOptions().timeZone
+}
+
+function writeTimeRange(var startTime, var endTime) {
+  var startTimeObj = new Date("2020-11-16T" + startTime + ":00.000+00:00")
+  var endTimeObj = new Date("2020-11-16T" + endTime + ":00.000+00:00")
+
+  return document.write(displayDate(startTimeObj) + " - " + displayDate(endTimeObj) + " (" + getLocalTimezone() +")")
 }
 </script>
 
@@ -26,11 +36,11 @@ function displayDate(dt) {
 
 <br/>
 
-**The times below are shown in <script type="text/javascript">document.write(Intl.DateTimeFormat().resolvedOptions().timeZone + " time zone, according to your device's time zone configuration.")</script><noscript>Coordinated Universal Time (UTC). To convert to your local time zone, you may visit <a href="https://time.is/compare/0100PM_16_Nov_2020_in_UTC">here</a>.</noscript>**.  
+*The times below are shown in <script type="text/javascript">document.write("<u>" + getLocalTimezone() + "</u> time zone, according to your device's time zone configuration.")</script><noscript>Coordinated Universal Time (UTC). To convert to your local time zone, you may visit <a href="https://time.is/compare/0100PM_16_Nov_2020_in_UTC">here</a>.</noscript>*  
 
 <br/>
 
-**<script type="text/javascript">document.write(displayDate(new Date("2020-11-16T13:00:00.000+00:00")) + " - " + displayDate(new Date("2020-11-16T13:10:00.000+00:00")))</script><noscript>13:00 - 13:10 (UTC time zone)</noscript>: [Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**
+**<script type="text/javascript">writeTimeRange("13:00", "13:10")</script><noscript>13:00 - 13:10 (UTC time zone)</noscript>: [Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**
 
 <br/>
 
