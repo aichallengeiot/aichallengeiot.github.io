@@ -25,54 +25,55 @@ Some examples:
 
 <br/>
 
-**13:00 - 13:10 (UTC): [Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**
+**13:00 - 13:10 (UTC time zone): [Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**
 
 <br/>
 
 ***Technical Session 1***  
-*Session chair: Xiaofan (Fred) Jiang (Columbia University)*
+*Session chair: TBD*
 
-**13:10 - 13:30 (UTC): [MetaDigit: Towards A Practical Digits Input System with Few User Effort](https://dl.acm.org/doi/10.1145/3417313.3429377)**  
+**13:10 - 13:30 (UTC time zone): [MetaDigit: Towards A Practical Digits Input System with Few User Effort](https://dl.acm.org/doi/10.1145/3417313.3429377)**  
 *Shicong Hong, Zhihong Xiao, Zishuo Guo, Yongpan Zou, Kaishun Wu (Shenzhen University)*
 
-**13:30 - 13:50 (UTC): [A Low footprint Automatic Speech Recognition System For Resource Constrained Edge Devices](https://dl.acm.org/doi/10.1145/3417313.3429385)**  
+**13:30 - 13:50 (UTC time zone): [A Low footprint Automatic Speech Recognition System For Resource Constrained Edge Devices](https://dl.acm.org/doi/10.1145/3417313.3429385)**  
 *Swarnava Dey, Jeet Dutta (TCS Research and Innovation, Tata Consultancy Services Ltd.)*
 
-**13:50 - 14:10 (UTC): [Incremental On-Device Tiny Machine Learning](https://dl.acm.org/doi/10.1145/3417313.3429378)**  
+**13:50 - 14:10 (UTC time zone): [Incremental On-Device Tiny Machine Learning](https://dl.acm.org/doi/10.1145/3417313.3429378)**  
 *Simone Disabato, Manuel Roveri (Politecnico di Milano)*
 
 <br/>
 
-**14:10 - 14:15 (UTC): Break**
+**14:10 - 14:15 (UTC time zone): Break**
 
 <br/>
 
 ***Technical Session 2***  
-*Session chair: TBD*
+*Session chair: Xiaofan (Fred) Jiang (Columbia University)*
 
-**14:15 - 14:35 (UTC): [Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms](https://dl.acm.org/doi/10.1145/3417313.3429384)**  
+**14:15 - 14:35 (UTC time zone): [Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms](https://dl.acm.org/doi/10.1145/3417313.3429384)**  
 *Poonam Yadav, Angelo Feraudo (University of York); Budi Arief (University of Kent); Siamak F. Shahandashti, Vassilios G. Vassilakis (University of York)*
 
-**14:35 - 14:55 (UTC): [Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression](https://dl.acm.org/doi/10.1145/3417313.3429379)**  
+**14:35 - 14:55 (UTC time zone): [Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression](https://dl.acm.org/doi/10.1145/3417313.3429379)**  
 *Colin Samplawski, Jin Huang, Deepak Ganesan, Benjamin Marlin (UMass Amherst)*
 
 <br/>
 
-**14:55 - 15:00 (UTC): Break**
+**14:55 - 15:00 (UTC time zone): Break**
 
 <br/>
 
-**15:00 - 15:55 (UTC):  [What is Next for the Efficient Machine Learning Revolution?](keynote.md)**  
+**15:00 - 15:55 (UTC time zone):  [What is Next for the Efficient Machine Learning Revolution?](keynote.md)**  
 Keynote speech by [Nic Lane](http://niclane.org/) (University of Cambridge and Samsung AI, UK)
 
 <br/>
 
-**15:55 - 16:00 (UTC): Break**
+**15:55 - 16:00 (UTC time zone): Break**
 
 <br/>
 
-**16:00 - 17:00 (UTC): Panel Discussion: Sustainable AI at the edge: deploying systems that work today and tomorrow**  
+**16:00 - 17:00 (UTC time zone): Panel Discussion: Sustainable AI at the edge: deploying systems that work today and tomorrow**  
 Panelists:  
+
 - [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi) (Imperial College London, UK)
 - [Prateek Jain](https://www.prateekjain.org/) (Microsoft Research, India)
 - [Santosh Kumar](https://md2k.org/santosh.html) (University of Memphis, USA)
@@ -82,40 +83,40 @@ Panelists:
 
 <br/>
 
-**17:00 - 17:25 (UTC): Break**
+**17:00 - 17:25 (UTC time zone): Break**
 
 <br/>
 
 ***Technical Session 3***  
 *Session chair: TBD*
 
-**17:25 - 17:45 (UTC): [PAMS: Improving Privacy in Audio-Based Mobile Systems](https://dl.acm.org/doi/10.1145/3417313.3429383)**  
+**17:25 - 17:45 (UTC time zone): [PAMS: Improving Privacy in Audio-Based Mobile Systems](https://dl.acm.org/doi/10.1145/3417313.3429383)**  
 *Stephen Xia, Xiaofan Jiang (Columbia University)*
 
-**17:45 - 18:05 (UTC): [Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation](https://dl.acm.org/doi/10.1145/3417313.3429382)**  
+**17:45 - 18:05 (UTC time zone): [Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation](https://dl.acm.org/doi/10.1145/3417313.3429382)**  
 *Seulki Lee, Shahriar Nirjon (University of North Carolina at Chapel Hill)*
 
-**18:05 - 18:25 (UTC): [Pushing the Envelope of Dynamic Spatial Gating technologies](https://dl.acm.org/doi/10.1145/3417313.3429380)**  
+**18:05 - 18:25 (UTC time zone): [Pushing the Envelope of Dynamic Spatial Gating technologies](https://dl.acm.org/doi/10.1145/3417313.3429380)**  
 *Xueqin Huang (Texas A & M University); Urmish Thakker (University of Wisconsin Madison); Dibakar Gope, Jesse Beu (Arm ML Research Lab)*
 
 <br/>
 
-**18:25 - 18:30 (UTC): Break**
+**18:25 - 18:30 (UTC time zone): Break**
 
 <br/>
 
 ***Technical Session 4***  
 *Session chair: TBD*
 
-**18:30 - 18:50 (UTC): [Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions](https://dl.acm.org/doi/10.1145/3417313.3429381)**  
+**18:30 - 18:50 (UTC time zone): [Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions](https://dl.acm.org/doi/10.1145/3417313.3429381)**  
 *Ravi Raju, Dibakar Gope, Urmish Thakker, Jesse Beu (Arm ML Research Lab)*
 
-**18:50 - 19:10 (UTC): [Deep Associated Elastic Tracker for Intelligent Traffic Intersections](https://dl.acm.org/doi/10.1145/3417313.3429386)**  
+**18:50 - 19:10 (UTC time zone): [Deep Associated Elastic Tracker for Intelligent Traffic Intersections](https://dl.acm.org/doi/10.1145/3417313.3429386)**  
 *Kaikai Liu (San Jose State University)*
 
 <br/>
 
-**19:10 - 19:20 (UTC): Closing Remarks**
+**19:10 - 19:20 (UTC time zone): Closing Remarks**
 
 <br/>
 
