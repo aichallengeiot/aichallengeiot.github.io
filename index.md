@@ -25,20 +25,20 @@ Some examples:
 
 <br/>
 
-**13:00 - 13:10 (UTC): Welcome & Opening Remarks**
+**13:00 - 13:10 (UTC): [Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**
 
 <br/>
 
 ***Technical Session 1***  
 *Session chair: Xiaofan (Fred) Jiang (Columbia University)*
 
-**13:10 - 13:30 (UTC): MetaDigit: Towards A Practical Digits Input System with Few User Effort**  
+**13:10 - 13:30 (UTC): [MetaDigit: Towards A Practical Digits Input System with Few User Effort](https://dl.acm.org/doi/10.1145/3417313.3429377)**  
 *Shicong Hong, Zhihong Xiao, Zishuo Guo, Yongpan Zou, Kaishun Wu (Shenzhen University)*
 
-**13:30 - 13:50 (UTC): A Low footprint Automatic Speech Recognition System For Resource Constrained Edge Devices**  
+**13:30 - 13:50 (UTC): [A Low footprint Automatic Speech Recognition System For Resource Constrained Edge Devices](https://dl.acm.org/doi/10.1145/3417313.3429385)**  
 *Swarnava Dey, Jeet Dutta (TCS Research and Innovation, Tata Consultancy Services Ltd.)*
 
-**13:50 - 14:10 (UTC): Incremental On-Device Tiny Machine Learning**  
+**13:50 - 14:10 (UTC): [Incremental On-Device Tiny Machine Learning](https://dl.acm.org/doi/10.1145/3417313.3429378)**  
 *Simone Disabato, Manuel Roveri (Politecnico di Milano)*
 
 <br/>
@@ -50,10 +50,10 @@ Some examples:
 ***Technical Session 2***  
 *Session chair: TBD*
 
-**14:15 - 14:35 (UTC): Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms**  
+**14:15 - 14:35 (UTC): [Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms](https://dl.acm.org/doi/10.1145/3417313.3429384)**  
 *Poonam Yadav, Angelo Feraudo (University of York); Budi Arief (University of Kent); Siamak F. Shahandashti, Vassilios G. Vassilakis (University of York)*
 
-**14:35 - 14:55 (UTC): Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression**  
+**14:35 - 14:55 (UTC): [Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression](https://dl.acm.org/doi/10.1145/3417313.3429379)**  
 *Colin Samplawski, Jin Huang, Deepak Ganesan, Benjamin Marlin (UMass Amherst)*
 
 <br/>
@@ -89,13 +89,13 @@ Panelists:
 ***Technical Session 3***  
 *Session chair: TBD*
 
-**17:25 - 17:45 (UTC): PAMS: Improving Privacy in Audio-Based Mobile Systems**  
+**17:25 - 17:45 (UTC): [PAMS: Improving Privacy in Audio-Based Mobile Systems](https://dl.acm.org/doi/10.1145/3417313.3429383)**  
 *Stephen Xia, Xiaofan Jiang (Columbia University)*
 
-**17:45 - 18:05 (UTC): Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation**  
+**17:45 - 18:05 (UTC): [Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation](https://dl.acm.org/doi/10.1145/3417313.3429382)**  
 *Seulki Lee, Shahriar Nirjon (University of North Carolina at Chapel Hill)*
 
-**18:05 - 18:25 (UTC): Pushing the Envelope of Dynamic Spatial Gating technologies**  
+**18:05 - 18:25 (UTC): [Pushing the Envelope of Dynamic Spatial Gating technologies](https://dl.acm.org/doi/10.1145/3417313.3429380)**  
 *Xueqin Huang (Texas A & M University); Urmish Thakker (University of Wisconsin Madison); Dibakar Gope, Jesse Beu (Arm ML Research Lab)*
 
 <br/>
@@ -107,10 +107,10 @@ Panelists:
 ***Technical Session 4***  
 *Session chair: TBD*
 
-**18:30 - 18:50 (UTC): Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions**  
+**18:30 - 18:50 (UTC): [Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions](https://dl.acm.org/doi/10.1145/3417313.3429381)**  
 *Ravi Raju, Dibakar Gope, Urmish Thakker, Jesse Beu (Arm ML Research Lab)*
 
-**18:50 - 19:10 (UTC): Deep Associated Elastic Tracker for Intelligent Traffic Intersections**  
+**18:50 - 19:10 (UTC): [Deep Associated Elastic Tracker for Intelligent Traffic Intersections](https://dl.acm.org/doi/10.1145/3417313.3429386)**  
 *Kaikai Liu (San Jose State University)*
 
 <br/>
