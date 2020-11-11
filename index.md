@@ -1,10 +1,10 @@
 The **2nd International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT 2020)** will be held in conjunction with [ACM SenSys 2020](http://sensys.acm.org/2020/) on November 16, 2020.
 
-
+<br/>
 
 **<u>Registration:</u>** All workshop attendees (including paper authors) are required to register at the [SenSys registration page](http://sensys.acm.org/2020/registration/). The registration is FREE.
 
-**<u>Location:</u>** Virtual (online)
+**<u>Location:</u>** Virtual (online) - Zoom link will be provided to registered participants over a Slack channel, as described [here](http://sensys.acm.org/2020/howtoattend/).
 
 <br/>
 
@@ -12,7 +12,16 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 <br/>
 
-**NOTE: All times below are in Coordinated Universal Time (UTC). To convert to your local time zone, you may visit [here](https://time.is/compare/0100PM_16_Nov_2020_in_UTC)**.
+**NOTE: All times below are in Coordinated Universal Time (UTC). To convert to your local time zone, you may visit [here](https://time.is/compare/0100PM_16_Nov_2020_in_UTC)**.  
+Some examples:
+PST (U.S. Pacific) = UTC-8  
+EST (U.S. Eastern) = UTC-5  
+GMT (UK) = UTC+0  
+CET (Central Europe) = UTC+1  
+IST (India) = UTC+5:30  
+CST (China) = UTC+8  
+JST (Japan) = UTC+9
+
 
 <br/>
 
@@ -20,7 +29,8 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 <br/>
 
-***Technical Session 1***
+***Technical Session 1***  
+*Session chair: Xiaofan (Fred) Jiang (Columbia University)*
 
 **13:10 - 13:30 (UTC): MetaDigit: Towards A Practical Digits Input System with Few User Effort**  
 *Shicong Hong, Zhihong Xiao, Zishuo Guo, Yongpan Zou, Kaishun Wu (Shenzhen University)*
@@ -37,7 +47,8 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 <br/>
 
-***Technical Session 2***
+***Technical Session 2***  
+*Session chair: TBD*
 
 **14:15 - 14:35 (UTC): Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms**  
 *Poonam Yadav, Angelo Feraudo (University of York); Budi Arief (University of Kent); Siamak F. Shahandashti, Vassilios G. Vassilakis (University of York)*
@@ -51,7 +62,8 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 <br/>
 
-**15:00 - 15:55 (UTC): Keynote by [Nicholas Lane](http://niclane.org/)** (University of Cambridge and Samsung AI, UK)
+**15:00 - 15:55 (UTC):  [What is Next for the Efficient Machine Learning Revolution?](keynote.md)**  
+Keynote speech by [Nic Lane](http://niclane.org/) (University of Cambridge and Samsung AI, UK)
 
 <br/>
 
@@ -74,7 +86,8 @@ Panelists:
 
 <br/>
 
-***Technical Session 3***
+***Technical Session 3***  
+*Session chair: TBD*
 
 **17:25 - 17:45 (UTC): PAMS: Improving Privacy in Audio-Based Mobile Systems**  
 *Stephen Xia, Xiaofan Jiang (Columbia University)*
@@ -91,7 +104,8 @@ Panelists:
 
 <br/>
 
-***Technical Session 4***
+***Technical Session 4***  
+*Session chair: TBD*
 
 **18:30 - 18:50 (UTC): Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions**  
 *Ravi Raju, Dibakar Gope, Urmish Thakker, Jesse Beu (Arm ML Research Lab)*
