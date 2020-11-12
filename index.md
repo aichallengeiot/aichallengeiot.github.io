@@ -6,6 +6,8 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 **<u>Location:</u>** Virtual (online) - Zoom link will be provided to registered participants over a Slack channel, as described [here](http://sensys.acm.org/2020/howtoattend/).
 
+In addition, we will have a Gather.Town space for informal voice/video chats. The link will be provided soon.
+
 <br/>
 
 <script type="text/javascript">
@@ -57,6 +59,12 @@ In case the times are incorrectly displayed in your browser, you may visit our [
 
 <br/>
 
+**<script type="text/javascript">writeTimeRange("12:30", "13:00")</script><noscript>12:30 - 13:00 (UTC time zone)</noscript>:  
+Arrival**  
+Join our Gather.Town space for informal chats (link will be provided soon)
+
+<br/>
+
 **<script type="text/javascript">writeTimeRange("13:00", "13:10")</script><noscript>13:00 - 13:10 (UTC time zone)</noscript>:  
 [Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**
 
@@ -85,7 +93,7 @@ Break**
 <br/>
 
 ***Technical Session 2***  
-*Session chair: Xiaofan (Fred) Jiang (Columbia University)*
+*Session chair: [Xiaofan (Fred) Jiang](http://fredjiang.com/) (Columbia University, USA)*
 
 **<script type="text/javascript">writeTimeRange("14:15", "14:35")</script><noscript>14:15 - 14:35 (UTC time zone)</noscript>:  
 [Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms](https://dl.acm.org/doi/10.1145/3417313.3429384)**  
@@ -131,7 +139,7 @@ Break**
 <br/>
 
 ***Technical Session 3***  
-*Session chair: TBD*
+*Session chair: [Poonam Yadav](https://poonamyadav.net) (University of York, UK)*
 
 **<script type="text/javascript">writeTimeRange("17:25", "17:45")</script><noscript>17:25 - 17:45 (UTC time zone)</noscript>:  
 [PAMS: Improving Privacy in Audio-Based Mobile Systems](https://dl.acm.org/doi/10.1145/3417313.3429383)**  
@@ -153,7 +161,7 @@ Break**
 <br/>
 
 ***Technical Session 4***  
-*Session chair: TBD*
+*Session chair: [Jorge Ortiz](http://jorgeortizphd.info/) (Rutgers University, USA)*
 
 **<script type="text/javascript">writeTimeRange("18:30", "18:50")</script><noscript>18:30 - 18:50 (UTC time zone)</noscript>:  
 [Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions](https://dl.acm.org/doi/10.1145/3417313.3429381)**  

@@ -6,6 +6,9 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 **<u>Location:</u>** Virtual (online) - Zoom link will be provided to registered participants over a Slack channel, as described [here](http://sensys.acm.org/2020/howtoattend/).
 
+In addition, we will have a Gather.Town space for informal voice/video chats. The link will be provided soon.
+
+
 <br/>
 
 ### Workshop Program (Monday, November 16, 2020)
@@ -22,6 +25,11 @@ Some examples:
 - IST (India) = UTC+5:30  
 - CST (China) = UTC+8  
 - JST (Japan) = UTC+9
+
+<br/>
+
+**12:30 - 13:00 (UTC time zone): Arrival**  
+Join our Gather.Town space for informal chats (link will be provided soon)
 
 <br/>
 
@@ -48,7 +56,7 @@ Some examples:
 <br/>
 
 ***Technical Session 2***  
-*Session chair: Xiaofan (Fred) Jiang (Columbia University)*
+*Session chair: [Xiaofan (Fred) Jiang](http://fredjiang.com/) (Columbia University, USA)*
 
 **14:15 - 14:35 (UTC time zone): [Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms](https://dl.acm.org/doi/10.1145/3417313.3429384)**  
 *Poonam Yadav, Angelo Feraudo (University of York); Budi Arief (University of Kent); Siamak F. Shahandashti, Vassilios G. Vassilakis (University of York)*
@@ -88,7 +96,7 @@ Panelists:
 <br/>
 
 ***Technical Session 3***  
-*Session chair: TBD*
+*Session chair: [Poonam Yadav](https://poonamyadav.net) (University of York, UK)*
 
 **17:25 - 17:45 (UTC time zone): [PAMS: Improving Privacy in Audio-Based Mobile Systems](https://dl.acm.org/doi/10.1145/3417313.3429383)**  
 *Stephen Xia, Xiaofan Jiang (Columbia University)*
@@ -106,7 +114,7 @@ Panelists:
 <br/>
 
 ***Technical Session 4***  
-*Session chair: TBD*
+*Session chair: [Jorge Ortiz](http://jorgeortizphd.info/) (Rutgers University, USA)*
 
 **18:30 - 18:50 (UTC time zone): [Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions](https://dl.acm.org/doi/10.1145/3417313.3429381)**  
 *Ravi Raju, Dibakar Gope, Urmish Thakker, Jesse Beu (Arm ML Research Lab)*
