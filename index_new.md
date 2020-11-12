@@ -113,7 +113,7 @@ Break**
 <br/>
 
 **<script type="text/javascript">writeTimeRange("16:00", "17:00")</script><noscript>16:00 - 17:00 (UTC time zone)</noscript>:  
-Panel Discussion:  Sustainable AI at the edge — deploying systems that work today and tomorrow**  
+Panel Discussion:  [Sustainable AI at the edge — deploying systems that work today and tomorrow](panel.md)**  
 Panelists: 
 - [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi) (Imperial College London, UK)
 - [Prateek Jain](https://www.prateekjain.org/) (Microsoft Research, India)
