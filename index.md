@@ -17,13 +17,14 @@ function displayDate(dt) {
     temp = '12';
   temp += ((minute < 10) ? ':0' : ':') + minute;
   temp += (hour >= 12) ? ' PM' : ' AM';
+  temp += (dt.getDay() - dt.getUTCDay() == 1 ? ' (Nov. 17)' : '');
   return temp;
 }
 
 function getTimezoneOffset() {
-  var offset = -(new Date()).getTimezoneOffset()/60
-  var temp = "UTC" + (offset >= 0 ? "+" : "") + offset
-  return temp
+  var offset = -(new Date()).getTimezoneOffset()/60;
+  var temp = "UTC" + (offset >= 0 ? "+" : "") + offset;
+  return temp;
 }
 
 function getLocalTimezone() {
@@ -31,7 +32,7 @@ function getLocalTimezone() {
     return Intl.DateTimeFormat().resolvedOptions().timeZone + ", " + getTimezoneOffset();
   }
   catch(e) {
-    return getTimezoneOffset()
+    return getTimezoneOffset();
   }
 }
 
