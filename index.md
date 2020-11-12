@@ -8,72 +8,113 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 <br/>
 
+<script type="text/javascript">
+function displayDate(dt) {
+  var hour = dt.getHours();
+  var minute = dt.getMinutes();
+  var temp = '' + ((hour > 12) ? hour - 12 : hour);
+  if (hour == 0)
+    temp = '12';
+  temp += ((minute < 10) ? ':0' : ':') + minute;
+  temp += (hour >= 12) ? ' PM' : ' AM';
+  return temp;
+}
+
+function getTimezoneOffset() {
+  var offset = -(new Date()).getTimezoneOffset()/60
+  var temp = "UTC" + (offset >= 0 ? "+" : "") + offset
+  return temp
+}
+
+function getLocalTimezone() {
+  try {
+    return Intl.DateTimeFormat().resolvedOptions().timeZone + ", " + getTimezoneOffset();
+  }
+  catch(e) {
+    return getTimezoneOffset()
+  }
+}
+
+function writeTimeRange(startTime, endTime) {
+  var startTimeObj = new Date("2020-11-16T" + startTime + ":00.000+00:00");
+  var endTimeObj = new Date("2020-11-16T" + endTime + ":00.000+00:00");
+
+  return document.write(displayDate(startTimeObj) + " - " + displayDate(endTimeObj) + " (" + getLocalTimezone() +")");
+}
+</script>
+
 ### Workshop Program (Monday, November 16, 2020)
 
 <br/>
 
-**NOTE: All times below are in Coordinated Universal Time (UTC). To convert to your local time zone, you may visit [here](https://time.is/compare/0100PM_16_Nov_2020_in_UTC)**.  
-Some examples:  
-
-- PST (U.S. Pacific) = UTC-8
-- EST (U.S. Eastern) = UTC-5 
-- GMT (UK) = UTC+0  
-- CET (Central Europe) = UTC+1  
-- IST (India) = UTC+5:30  
-- CST (China) = UTC+8  
-- JST (Japan) = UTC+9
+*The times below are shown in the* 
+**<script type="text/javascript">document.write(getLocalTimezone())</script>** 
+*<script type="text/javascript">document.write("time zone, according to your device's time zone configuration.")</script>*
+**<noscript>Coordinated Universal Time (UTC).</noscript>**
+*<noscript>To convert to your local time zone, you may visit <a href="https://time.is/compare/0100PM_16_Nov_2020_in_UTC">here</a>.</noscript>*
+In case the time below is incorrectly displayed in the browser, you may visit our [static webpage](index_static.md).
 
 <br/>
 
-**13:00 - 13:10 (UTC time zone): [Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**
+**<script type="text/javascript">writeTimeRange("13:00", "13:10")</script><noscript>13:00 - 13:10 (UTC time zone)</noscript>:  
+[Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**
 
 <br/>
 
 ***Technical Session 1***  
 *Session chair: TBD*
 
-**13:10 - 13:30 (UTC time zone): [MetaDigit: Towards A Practical Digits Input System with Few User Effort](https://dl.acm.org/doi/10.1145/3417313.3429377)**  
+**<script type="text/javascript">writeTimeRange("13:10", "13:30")</script><noscript>13:10 - 13:30 (UTC time zone)</noscript>:  
+[MetaDigit: Towards A Practical Digits Input System with Few User Effort](https://dl.acm.org/doi/10.1145/3417313.3429377)**  
 *Shicong Hong, Zhihong Xiao, Zishuo Guo, Yongpan Zou, Kaishun Wu (Shenzhen University)*
 
-**13:30 - 13:50 (UTC time zone): [A Low footprint Automatic Speech Recognition System For Resource Constrained Edge Devices](https://dl.acm.org/doi/10.1145/3417313.3429385)**  
+**<script type="text/javascript">writeTimeRange("13:30", "13:50")</script><noscript>13:30 - 13:50 (UTC time zone)</noscript>:  
+[A Low footprint Automatic Speech Recognition System For Resource Constrained Edge Devices](https://dl.acm.org/doi/10.1145/3417313.3429385)**  
 *Swarnava Dey, Jeet Dutta (TCS Research and Innovation, Tata Consultancy Services Ltd.)*
 
-**13:50 - 14:10 (UTC time zone): [Incremental On-Device Tiny Machine Learning](https://dl.acm.org/doi/10.1145/3417313.3429378)**  
+**<script type="text/javascript">writeTimeRange("13:50", "14:10")</script><noscript>13:50 - 14:10 (UTC time zone)</noscript>:  
+[Incremental On-Device Tiny Machine Learning](https://dl.acm.org/doi/10.1145/3417313.3429378)**  
 *Simone Disabato, Manuel Roveri (Politecnico di Milano)*
 
 <br/>
 
-**14:10 - 14:15 (UTC time zone): Break**
+**<script type="text/javascript">writeTimeRange("14:10", "14:15")</script><noscript>14:10 - 14:15 (UTC time zone)</noscript>:  
+Break**
 
 <br/>
 
 ***Technical Session 2***  
 *Session chair: Xiaofan (Fred) Jiang (Columbia University)*
 
-**14:15 - 14:35 (UTC time zone): [Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms](https://dl.acm.org/doi/10.1145/3417313.3429384)**  
+**<script type="text/javascript">writeTimeRange("14:15", "14:35")</script><noscript>14:15 - 14:35 (UTC time zone)</noscript>:  
+[Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms](https://dl.acm.org/doi/10.1145/3417313.3429384)**  
 *Poonam Yadav, Angelo Feraudo (University of York); Budi Arief (University of Kent); Siamak F. Shahandashti, Vassilios G. Vassilakis (University of York)*
 
-**14:35 - 14:55 (UTC time zone): [Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression](https://dl.acm.org/doi/10.1145/3417313.3429379)**  
+**<script type="text/javascript">writeTimeRange("14:35", "14:55")</script><noscript>14:35 - 14:55 (UTC time zone)</noscript>:  
+[Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression](https://dl.acm.org/doi/10.1145/3417313.3429379)**  
 *Colin Samplawski, Jin Huang, Deepak Ganesan, Benjamin Marlin (UMass Amherst)*
 
 <br/>
 
-**14:55 - 15:00 (UTC time zone): Break**
+**<script type="text/javascript">writeTimeRange("14:55", "15:00")</script><noscript>14:55 - 15:00 (UTC time zone)</noscript>:  
+Break**
 
 <br/>
 
-**15:00 - 15:55 (UTC time zone):  [What is Next for the Efficient Machine Learning Revolution?](keynote.md)**  
+**<script type="text/javascript">writeTimeRange("15:00", "15:55")</script><noscript>15:00 - 15:55 (UTC time zone)</noscript>:   
+[What is Next for the Efficient Machine Learning Revolution?](keynote.md)**  
 Keynote speech by [Nic Lane](http://niclane.org/) (University of Cambridge and Samsung AI, UK)
 
 <br/>
 
-**15:55 - 16:00 (UTC time zone): Break**
+**<script type="text/javascript">writeTimeRange("15:55", "16:00")</script><noscript>15:55 - 16:00 (UTC time zone)</noscript>:  
+Break**
 
 <br/>
 
-**16:00 - 17:00 (UTC time zone): Panel Discussion: Sustainable AI at the edge: deploying systems that work today and tomorrow**  
-Panelists:  
-
+**<script type="text/javascript">writeTimeRange("16:00", "17:00")</script><noscript>16:00 - 17:00 (UTC time zone)</noscript>:  
+[Panel Discussion:  Sustainable AI at the edge — deploying systems that work today and tomorrow](panel.md)**  
+Panelists: 
 - [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi) (Imperial College London, UK)
 - [Prateek Jain](https://www.prateekjain.org/) (Microsoft Research, India)
 - [Santosh Kumar](https://md2k.org/santosh.html) (University of Memphis, USA)
@@ -83,40 +124,48 @@ Panelists:
 
 <br/>
 
-**17:00 - 17:25 (UTC time zone): Break**
+**<script type="text/javascript">writeTimeRange("17:00", "17:25")</script><noscript>17:00 - 17:25 (UTC time zone)</noscript>:  
+Break**
 
 <br/>
 
 ***Technical Session 3***  
 *Session chair: TBD*
 
-**17:25 - 17:45 (UTC time zone): [PAMS: Improving Privacy in Audio-Based Mobile Systems](https://dl.acm.org/doi/10.1145/3417313.3429383)**  
+**<script type="text/javascript">writeTimeRange("17:25", "17:45")</script><noscript>17:25 - 17:45 (UTC time zone)</noscript>:  
+[PAMS: Improving Privacy in Audio-Based Mobile Systems](https://dl.acm.org/doi/10.1145/3417313.3429383)**  
 *Stephen Xia, Xiaofan Jiang (Columbia University)*
 
-**17:45 - 18:05 (UTC time zone): [Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation](https://dl.acm.org/doi/10.1145/3417313.3429382)**  
+**<script type="text/javascript">writeTimeRange("17:45", "18:05")</script><noscript>17:45 - 18:05 (UTC time zone)</noscript>:  
+[Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation](https://dl.acm.org/doi/10.1145/3417313.3429382)**  
 *Seulki Lee, Shahriar Nirjon (University of North Carolina at Chapel Hill)*
 
-**18:05 - 18:25 (UTC time zone): [Pushing the Envelope of Dynamic Spatial Gating technologies](https://dl.acm.org/doi/10.1145/3417313.3429380)**  
+**<script type="text/javascript">writeTimeRange("18:05", "18:25")</script><noscript>18:05 - 18:25 (UTC time zone)</noscript>:  
+[Pushing the Envelope of Dynamic Spatial Gating technologies](https://dl.acm.org/doi/10.1145/3417313.3429380)**  
 *Xueqin Huang (Texas A & M University); Urmish Thakker (University of Wisconsin Madison); Dibakar Gope, Jesse Beu (Arm ML Research Lab)*
 
 <br/>
 
-**18:25 - 18:30 (UTC time zone): Break**
+**<script type="text/javascript">writeTimeRange("18:25", "18:30")</script><noscript>18:25 - 18:30 (UTC time zone)</noscript>:  
+Break**
 
 <br/>
 
 ***Technical Session 4***  
 *Session chair: TBD*
 
-**18:30 - 18:50 (UTC time zone): [Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions](https://dl.acm.org/doi/10.1145/3417313.3429381)**  
+**<script type="text/javascript">writeTimeRange("18:30", "18:50")</script><noscript>18:30 - 18:50 (UTC time zone)</noscript>:  
+[Understanding the Impact of Dynamic Channel Pruning on Conditionally Parameterized Convolutions](https://dl.acm.org/doi/10.1145/3417313.3429381)**  
 *Ravi Raju, Dibakar Gope, Urmish Thakker, Jesse Beu (Arm ML Research Lab)*
 
-**18:50 - 19:10 (UTC time zone): [Deep Associated Elastic Tracker for Intelligent Traffic Intersections](https://dl.acm.org/doi/10.1145/3417313.3429386)**  
+**<script type="text/javascript">writeTimeRange("18:50", "19:10")</script><noscript>18:50 - 19:10 (UTC time zone)</noscript>:  
+[Deep Associated Elastic Tracker for Intelligent Traffic Intersections](https://dl.acm.org/doi/10.1145/3417313.3429386)**  
 *Kaikai Liu (San Jose State University)*
 
 <br/>
 
-**19:10 - 19:20 (UTC time zone): Closing Remarks**
+**<script type="text/javascript">writeTimeRange("19:10", "19:20")</script><noscript>19:10 - 19:20 (UTC time zone)</noscript>:  
+Closing Remarks**
 
 <br/>
 

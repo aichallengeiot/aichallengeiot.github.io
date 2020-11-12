@@ -71,7 +71,7 @@ Keynote speech by [Nic Lane](http://niclane.org/) (University of Cambridge and S
 
 <br/>
 
-**16:00 - 17:00 (UTC time zone): Panel Discussion: Sustainable AI at the edge: deploying systems that work today and tomorrow**  
+**16:00 - 17:00 (UTC time zone): [Panel Discussion:  Sustainable AI at the edge — deploying systems that work today and tomorrow](panel.md)**  
 Panelists:  
 
 - [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi) (Imperial College London, UK)
