@@ -47,7 +47,11 @@ function writeTimeRange(startTime, endTime) {
 
 <br/>
 
-<i> The times below are shown in the <script type="text/javascript">document.write("<b>" + getLocalTimezone() + "</b> time zone, according to your device's time zone configuration.")</script><noscript>Coordinated Universal Time (UTC). To convert to your local time zone, you may visit <a href="https://time.is/compare/0100PM_16_Nov_2020_in_UTC">here</a>.</noscript></i>
+* The times below are shown in the* 
+**<script type="text/javascript">document.write(getLocalTimezone()</script>** 
+*<script type="text/javascript">document.write("time zone, according to your device's time zone configuration.")</script>*
+**<noscript>Coordinated Universal Time (UTC).</noscript> **
+*<noscript>To convert to your local time zone, you may visit <a href="https://time.is/compare/0100PM_16_Nov_2020_in_UTC">here</a>.</noscript>*
 In case the time below is incorrectly displayed in the browser, you may visit our [static webpage](index_static.md).
 
 <br/>
