@@ -48,7 +48,7 @@ function writeTimeRange(startTime, endTime) {
 <br/>
 
 *The times below are shown in the* 
-**<script type="text/javascript">document.write(getLocalTimezone()</script>** 
+**<script type="text/javascript">document.write(getLocalTimezone())</script>** 
 *<script type="text/javascript">document.write("time zone, according to your device's time zone configuration.")</script>*
 **<noscript>Coordinated Universal Time (UTC).</noscript>**
 *<noscript>To convert to your local time zone, you may visit <a href="https://time.is/compare/0100PM_16_Nov_2020_in_UTC">here</a>.</noscript>*
@@ -57,7 +57,7 @@ In case the time below is incorrectly displayed in the browser, you may visit ou
 <br/>
 
 **<script type="text/javascript">writeTimeRange("13:00", "13:10")</script><noscript>13:00 - 13:10 (UTC time zone)</noscript>:  
-*[Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**
+[Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**
 
 <br/>
 
@@ -65,7 +65,7 @@ In case the time below is incorrectly displayed in the browser, you may visit ou
 *Session chair: TBD*
 
 **<script type="text/javascript">writeTimeRange("13:10", "13:30")</script><noscript>13:10 - 13:30 (UTC time zone)</noscript>:  
-*[MetaDigit: Towards A Practical Digits Input System with Few User Effort](https://dl.acm.org/doi/10.1145/3417313.3429377)**  
+[MetaDigit: Towards A Practical Digits Input System with Few User Effort](https://dl.acm.org/doi/10.1145/3417313.3429377)**  
 *Shicong Hong, Zhihong Xiao, Zishuo Guo, Yongpan Zou, Kaishun Wu (Shenzhen University)*
 
 **<script type="text/javascript">writeTimeRange("13:30", "13:50")</script><noscript>13:30 - 13:50 (UTC time zone)</noscript>:  
@@ -113,7 +113,7 @@ Break**
 <br/>
 
 **<script type="text/javascript">writeTimeRange("16:00", "17:00")</script><noscript>16:00 - 17:00 (UTC time zone)</noscript>:  
-Panel Discussion: Sustainable AI at the edge: deploying systems that work today and tomorrow**  
+Panel Discussion:  Sustainable AI at the edge — deploying systems that work today and tomorrow**  
 Panelists: 
 - [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi) (Imperial College London, UK)
 - [Prateek Jain](https://www.prateekjain.org/) (Microsoft Research, India)
