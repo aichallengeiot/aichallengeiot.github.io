@@ -1,6 +1,5 @@
 ## What is Next for the Efficient Machine Learning Revolution? 
 Keynote speech by [Nic Lane](http://niclane.org/) (University of Cambridge and Samsung AI, UK)  
-Nov. 16, 2020 at 15:00 - 15:55 (UTC)
 
 **Abstract**: Mobile and embedded devices increasingly rely on locally executing deep neural networks to understand the world -- a formerly impossible feat that would have overwhelmed their system resources just a few years ago. The age of on-device artificial intelligence is now upon us; but incredibly, these dramatic changes are just the beginning. Looking ahead, machine learning on IoT devices will extend beyond simply classifying categories and perceptual tasks, to performing roles that alter how every part of the systems stack of smart device function. This next evolution in constrained-resource computing will finally produce devices that meet our expectations in how they can learn, reason and react to the real-world. In this talk, I will briefly discuss the initial breakthroughs that allowed us to reach this point, and outline a number of looming open problems we must overcome to bring about this next phase in the deep transformation of mobile and embedded computing.
 
