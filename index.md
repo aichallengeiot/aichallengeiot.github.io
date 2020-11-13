@@ -103,7 +103,7 @@ Break**
 *Poonam Yadav, Angelo Feraudo (University of York); Budi Arief (University of Kent); Siamak F. Shahandashti, Vassilios G. Vassilakis (University of York)*
 
 **<script type="text/javascript">writeTimeRange("14:35", "14:55")</script><noscript>14:35 - 14:55 (UTC time zone)</noscript>:  
-[Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression](https://dl.acm.org/doi/10.1145/3417313.3429379)**  
+[Towards Object Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression](https://dl.acm.org/doi/10.1145/3417313.3429379)**  
 *Colin Samplawski, Jin Huang, Deepak Ganesan, Benjamin Marlin (UMass Amherst)*
 
 <br/>

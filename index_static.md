@@ -64,7 +64,7 @@ Join our Gather.Town space for informal chats (link will be provided soon)
 **14:15 - 14:35 (UTC time zone): [Position paper: A systematic framework for categorising IoT device fingerprinting mechanisms](https://dl.acm.org/doi/10.1145/3417313.3429384)**  
 *Poonam Yadav, Angelo Feraudo (University of York); Budi Arief (University of Kent); Siamak F. Shahandashti, Vassilios G. Vassilakis (University of York)*
 
-**14:35 - 14:55 (UTC time zone): [Towards Objection Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression](https://dl.acm.org/doi/10.1145/3417313.3429379)**  
+**14:35 - 14:55 (UTC time zone): [Towards Object Detection Under IoT Resource Constraints: Combining Partitioning, Slicing and Compression](https://dl.acm.org/doi/10.1145/3417313.3429379)**  
 *Colin Samplawski, Jin Huang, Deepak Ganesan, Benjamin Marlin (UMass Amherst)*
 
 <br/>
