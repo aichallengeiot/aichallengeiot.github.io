@@ -66,7 +66,10 @@ Join our Gather.Town space for informal chats (link will be provided soon)
 <br/>
 
 **<script type="text/javascript">writeTimeRange("13:00", "13:10")</script><noscript>13:00 - 13:10 (UTC time zone)</noscript>:  
-[Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**
+[Welcome & Opening Remarks](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3417313)**  
+- [Shiqiang Wang](https://researcher.watson.ibm.com/researcher/view.php?person=us-wangshiq) (IBM T. J. Watson Research Center, USA)
+- [Poonam Yadav](https://poonamyadav.net) (University of York, UK)
+- [Jorge Ortiz](http://jorgeortizphd.info/) (Rutgers University, USA)
 
 <br/>
 
