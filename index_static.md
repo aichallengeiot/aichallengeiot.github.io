@@ -29,7 +29,7 @@ Some examples:
 <br/>
 
 **12:30 - 13:00 (UTC time zone): Arrival**  
-Join our Gather.Town space for informal chats (link will be provided in the Slack channel)
+Join our Gather.Town space for informal chats (link will be provided in the [Slack channel](https://sensys20-buildsys20.slack.com/archives/C01EP2R6H25))
 
 <br/>
 
@@ -37,7 +37,7 @@ Join our Gather.Town space for informal chats (link will be provided in the Slac
 - [Shiqiang Wang](https://researcher.watson.ibm.com/researcher/view.php?person=us-wangshiq) (IBM T. J. Watson Research Center, USA)
 - [Poonam Yadav](https://poonamyadav.net) (University of York, UK)
 - [Jorge Ortiz](http://jorgeortizphd.info/) (Rutgers University, USA)
-- 
+
 <br/>
 
 ***Technical Session 1***  

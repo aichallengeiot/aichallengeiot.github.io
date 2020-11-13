@@ -61,7 +61,7 @@ In case the times are incorrectly displayed in your browser, you may visit our [
 
 **<script type="text/javascript">writeTimeRange("12:30", "13:00")</script><noscript>12:30 - 13:00 (UTC time zone)</noscript>:  
 Arrival**  
-Join our Gather.Town space for informal chats (link will be provided in the Slack channel)
+Join our Gather.Town space for informal chats (link will be provided in the [Slack channel](https://sensys20-buildsys20.slack.com/archives/C01EP2R6H25))
 
 <br/>
 
