@@ -4,9 +4,9 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 **<u>Registration:</u>** All workshop attendees (including paper authors) are required to register at the [SenSys registration page](http://sensys.acm.org/2020/registration/). The registration is FREE.
 
-**<u>Location:</u>** Virtual (online) - Zoom link will be provided to registered participants over a Slack channel, as described [here](http://sensys.acm.org/2020/howtoattend/).
+**<u>Location:</u>** Virtual (online) - You will receive an invite to the SenSys/BuildSys Slack workspace after registration, as described [here](http://sensys.acm.org/2020/howtoattend/). After joining the Slack workspace, the link to our workshop's channel is [here](https://sensys20-buildsys20.slack.com/archives/C01EP2R6H25).
 
-In addition, we will have a Gather.Town space for informal voice/video chats. The link will be provided soon.
+We will post the Zoom link for the main workshop program in the Slack channel. In addition, we will have a Gather.Town space for a unique experience of informal voice/video chats, the link to which will be posted in the Slack channel too.
 
 
 <br/>
@@ -29,7 +29,7 @@ Some examples:
 <br/>
 
 **12:30 - 13:00 (UTC time zone): Arrival**  
-Join our Gather.Town space for informal chats (link will be provided soon)
+Join our Gather.Town space for informal chats (link will be provided in the Slack channel)
 
 <br/>
 
@@ -41,7 +41,7 @@ Join our Gather.Town space for informal chats (link will be provided soon)
 <br/>
 
 ***Technical Session 1***  
-*Session chair: TBD*
+*Session chair: [Poonam Yadav](https://poonamyadav.net) (University of York, UK)*
 
 **13:10 - 13:30 (UTC time zone): [MetaDigit: Towards A Practical Digits Input System with Few User Effort](https://dl.acm.org/doi/10.1145/3417313.3429377)**  
 *Shicong Hong, Zhihong Xiao, Zishuo Guo, Yongpan Zou, Kaishun Wu (Shenzhen University)*
@@ -99,7 +99,7 @@ Panelists:
 <br/>
 
 ***Technical Session 3***  
-*Session chair: [Poonam Yadav](https://poonamyadav.net) (University of York, UK)*
+*Session chair: [Shiqiang Wang](https://researcher.watson.ibm.com/researcher/view.php?person=us-wangshiq) (IBM T. J. Watson Research Center, USA)*
 
 **17:25 - 17:45 (UTC time zone): [PAMS: Improving Privacy in Audio-Based Mobile Systems](https://dl.acm.org/doi/10.1145/3417313.3429383)**  
 *Stephen Xia, Xiaofan Jiang (Columbia University)*
