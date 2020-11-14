@@ -94,7 +94,11 @@ Panelists:
 
 <br/>
 
-**17:00 - 17:25 (UTC time zone): Break**
+**17:00 - 17:05 (UTC time zone): Best Paper Award Announcement**
+
+<br/>
+
+**17:05 - 17:25 (UTC time zone): Break**
 
 <br/>
 

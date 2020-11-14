@@ -136,7 +136,12 @@ Panelists:
 
 <br/>
 
-**<script type="text/javascript">writeTimeRange("17:00", "17:25")</script><noscript>17:00 - 17:25 (UTC time zone)</noscript>:  
+**<script type="text/javascript">writeTimeRange("17:00", "17:05")</script><noscript>17:00 - 17:05 (UTC time zone)</noscript>:  
+Best Paper Award Announcement**
+
+<br/>
+
+**<script type="text/javascript">writeTimeRange("17:05", "17:25")</script><noscript>17:05 - 17:25 (UTC time zone)</noscript>:  
 Break**
 
 <br/>
