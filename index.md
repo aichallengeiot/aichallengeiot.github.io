@@ -4,9 +4,17 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 
 **<u>Registration:</u>** All workshop attendees (including paper authors) are required to register at the [SenSys registration page](http://sensys.acm.org/2020/registration/). The registration is FREE.
 
-**<u>Location:</u>** Virtual (online) - You will receive an invite to the SenSys/BuildSys Slack workspace after registration, as described [here](http://sensys.acm.org/2020/howtoattend/). After joining the Slack workspace, the link to our workshop's channel is [here](https://sensys20-buildsys20.slack.com/archives/C01EP2R6H25).
+**<u>Location:</u>** Virtual (online)
 
-We will post the Zoom link for the main workshop program in the Slack channel. In addition, we will have a Gather.Town space for a unique experience of informal voice/video chats, the link to which will be posted in the Slack channel too.
+**<u>How to attend the workshop (detailed steps):</u>**
+1. Complete the free registration at the [SenSys registration page](http://sensys.acm.org/2020/registration/).
+2. After registration, you will receive an email from the SenSys organizers with an invite to the SenSys/BuildSys Slack workspace, as described [here](http://sensys.acm.org/2020/howtoattend/). Please join this Slack workspace.
+3. After joining the Slack workspace, locate our workshop's channel [#w07-aichallengeiot](https://sensys20-buildsys20.slack.com/archives/C01EP2R6H25).
+4. Zoom and Gather.Town links are provided in the channel topic/description. We will use Zoom for the main workshop program and Gather.Town for a unique experience of informal voice/video chats.
+5. During your attendance of the workshop, please stay on Slack and monitor the channel [#w07-aichallengeiot](https://sensys20-buildsys20.slack.com/archives/C01EP2R6H25). We will send any announcements into this channel. If you have a question related to this workshop, please also ask in this channel.
+
+If you have trouble connecting to Slack, please contact the workshop chair: wangshiq@us.ibm.com  
+Enjoy!
 
 <br/>
 
@@ -61,7 +69,7 @@ In case the times are incorrectly displayed in your browser, you may visit our [
 
 **<script type="text/javascript">writeTimeRange("12:30", "13:00")</script><noscript>12:30 - 13:00 (UTC time zone)</noscript>:  
 Arrival**  
-Join our Gather.Town space for informal chats (link will be provided in the [Slack channel](https://sensys20-buildsys20.slack.com/archives/C01EP2R6H25))
+Join our Gather.Town space for informal chats (link is provided in the [Slack channel](https://sensys20-buildsys20.slack.com/archives/C01EP2R6H25))
 
 <br/>
 
