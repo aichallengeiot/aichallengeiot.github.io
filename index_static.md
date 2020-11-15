@@ -14,7 +14,7 @@ The **2nd International Workshop on Challenges in Artificial Intelligence and Ma
 4. Zoom and Gather.Town links are provided in the channel topic/description. We will use Zoom for the main workshop program and Gather.Town for a unique experience of informal voice/video chats.
 5. During your attendance of the workshop, please stay on Slack and monitor the channel [#w07-aichallengeiot](https://sensys20-buildsys20.slack.com/archives/C01EP2R6H25). We will send any announcements into this channel. If you have a question related to this workshop, please also ask in this channel.
 
-If you have trouble connecting to Slack, please contact the workshop chair: wangshiq@us.ibm.com  
+If you have trouble connecting to Slack, please contact the workshop chair: [wangshiq@us.ibm.com](mailto:wangshiq@us.ibm.com)  
 Enjoy!
 
 
