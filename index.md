@@ -163,6 +163,7 @@ Break**
 
 **<script type="text/javascript">writeTimeRange("17:45", "18:05")</script><noscript>17:45 - 18:05 (UTC time zone)</noscript>:  
 [Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation](https://dl.acm.org/doi/10.1145/3417313.3429382)**  
+*Best paper award*  
 *Seulki Lee, Shahriar Nirjon (University of North Carolina at Chapel Hill)*
 
 **<script type="text/javascript">writeTimeRange("18:05", "18:25")</script><noscript>18:05 - 18:25 (UTC time zone)</noscript>:  

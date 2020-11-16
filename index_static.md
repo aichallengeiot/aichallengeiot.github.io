@@ -118,6 +118,7 @@ Panelists:
 *Stephen Xia, Xiaofan Jiang (Columbia University)*
 
 **17:45 - 18:05 (UTC time zone): [Learning in the Wild: When, How, and What to Learn for On-Device Dataset Adaptation](https://dl.acm.org/doi/10.1145/3417313.3429382)**  
+*Best paper award*
 *Seulki Lee, Shahriar Nirjon (University of North Carolina at Chapel Hill)*
 
 **18:05 - 18:25 (UTC time zone): [Pushing the Envelope of Dynamic Spatial Gating technologies](https://dl.acm.org/doi/10.1145/3417313.3429380)**  
