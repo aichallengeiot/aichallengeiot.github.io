@@ -72,7 +72,6 @@ The call for papers is available [here](https://aichallengeiot.github.io/cfp.htm
 - Notification of Paper Acceptance: October 11, 2021
 
 
-
 <script type="text/javascript">
 var sc_project=8539485; 
 var sc_invisible=1; 
