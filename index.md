@@ -66,6 +66,12 @@ The call for papers is available [here](https://aichallengeiot.github.io/cfp.htm
 - [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles, USA)
 
 
+#### Important Dates
+- Abstract Registration: September 8, 2021 (11:59 pm anywhere on earth (UTC -12))
+- Paper Submission: September 15, 2021 (11:59 pm anywhere on earth (UTC -12))
+- Notification of Paper Acceptance: October 11, 2021
+
+
 
 <script type="text/javascript">
 var sc_project=8539485; 
