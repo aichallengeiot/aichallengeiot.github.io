@@ -41,7 +41,7 @@ function writeTimeRange(startTime, endTime) {
 
 #### Call for Papers
 
-The call for papers (now closed) is available [here](https://aichallengeiot.github.io/cfp.html)
+The call for papers is available [here](https://aichallengeiot.github.io/cfp.html)
 
 
 #### Workshop History
