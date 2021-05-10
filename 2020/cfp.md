@@ -27,11 +27,13 @@ All submissions should use the double column ACM proceedings format. The ACM tem
 
 The organizing committee will select a *best paper award* among submitted papers, which will be announced at the workshop.
 
+**The link for submission is:** [https://aichallengeiot20.hotcrp.com/](https://aichallengeiot20.hotcrp.com/)
 
 #### Important Dates
-- Abstract Registration: September 13, 2021 (11:59 pm anywhere on earth (UTC -12))
-- Paper Submission: September 20, 2021 (11:59 pm anywhere on earth (UTC -12))
-- Notification of Paper Acceptance: October 11, 2021
-- Camera-Ready: October 18, 2021
+- Abstract Registration: ~~September 11, 2020~~ FINAL deadline - September 20, 2020 (11:59 pm anywhere on earth (UTC -12))
+- Paper Submission: ~~September 18, 2020~~  FINAL deadline - September 20, 2020 (11:59 pm anywhere on earth (UTC -12))
+- Notification of Paper Acceptance: October 9, 2020
+- Camera-Ready: October 16, 2020
+- Workshop date: November 16, 2020
 
 
