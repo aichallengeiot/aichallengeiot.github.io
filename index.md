@@ -72,17 +72,17 @@ The call for papers is available [here](https://aichallengeiot.github.io/cfp.htm
 
 
 ##### Program Committee
-- [Liangzhen Lia](https://aichallengeiot.github.io) (Facebook, USA)
+- [Andreas Reinhardt](https://www.areinhardt.de/) (TU Clausthal, Germany)
+- [Bo Wei](https://www.northumbria.ac.uk/about-us/our-staff/w/bo-wei/) (Northumbria University, UK)
 - [Diana Popescu](https://www.kcl.ac.uk/people/diana-popescu) (Cambridge University, UK)
-- [Urmish Thakker](https://urmish.github.io/) (ARM, USA)
+- [Le Viet Duc](https://people.utwente.nl/v.d.le) (University of Twente, Netherlands)
+- [Liangzhen Lia](https://aichallengeiot.github.io) (Facebook, USA)
+- [Manuel Roveri](http://roveri.faculty.polimi.it/) (Politecnico di Milano, Italy)
+- [Qing Wang](https://www.st.ewi.tudelft.nl/qing/) (TU Delft, Netherlands)
 - [Rui Tan](https://personal.ntu.edu.sg/tanrui/) (Nanyang Technological University, Singapore)
 - [Salma Elmalaki](https://faculty.sites.uci.edu/elmalaki/) (UC Irvine, USA)
 - [Swarnava Dey](https://aichallengeiot.github.io) (Tata Consultancy Services Ltd.)
-- [Manuel Roveri](http://roveri.faculty.polimi.it/) (Politecnico di Milano, Italy)
-- [Bo Wei](https://www.northumbria.ac.uk/about-us/our-staff/w/bo-wei/) (Northumbria University, UK)
-- [Le Viet Duc](https://people.utwente.nl/v.d.le) (University of Twente, Netherlands)
-- [Andreas Reinhardt](https://www.areinhardt.de/) (TU Clausthal, Germany)
-- [Qing Wang](https://www.st.ewi.tudelft.nl/qing/) (TU Delft, Netherlands)
+- [Urmish Thakker](https://urmish.github.io/) (ARM, USA)
 
 
 <script type="text/javascript">
