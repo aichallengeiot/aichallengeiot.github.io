@@ -81,6 +81,7 @@ The call for papers is available [here](https://aichallengeiot.github.io/cfp.htm
 - [Qing Wang](https://www.st.ewi.tudelft.nl/qing/) (TU Delft, Netherlands)
 - [Rui Tan](https://personal.ntu.edu.sg/tanrui/) (Nanyang Technological University, Singapore)
 - [Salma Elmalaki](https://faculty.sites.uci.edu/elmalaki/) (UC Irvine, USA)
+- [Shaohan Hu](https://hushaohan.github.io/) (JPMorgan Chase - Future Lab, USA)
 - [Swarnava Dey](https://aichallengeiot.github.io) (Tata Consultancy Services Ltd.)
 - [Urmish Thakker](https://urmish.github.io/) (ARM, USA)
 
