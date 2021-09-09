@@ -31,7 +31,7 @@ The organizing committee will select a *best paper award* among submitted papers
 
 #### Important Dates
 - ~~Abstract Registration: September 8, 2021 (11:59 pm anywhere on earth (UTC -12))~~
-- Paper Submission: ~~September 15~~ September 24, 2021 (11:59 pm anywhere on earth (UTC -12))
+- Paper Submission: ~~September 15~~ FINAL deadline - September 24, 2021 (11:59 pm anywhere on earth (UTC -12))
 - Notification of Paper Acceptance: October 11, 2021
 
 
