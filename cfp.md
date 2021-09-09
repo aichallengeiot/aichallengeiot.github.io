@@ -30,8 +30,8 @@ The organizing committee will select a *best paper award* among submitted papers
 **The link for submission is:** [https://aichallengeiot21.hotcrp.com/](https://aichallengeiot21.hotcrp.com/)
 
 #### Important Dates
-- Abstract Registration: September 8, 2021 (11:59 pm anywhere on earth (UTC -12))
-- Paper Submission: September 15, 2021 (11:59 pm anywhere on earth (UTC -12))
+- ~~Abstract Registration: September 8, 2021 (11:59 pm anywhere on earth (UTC -12))~~
+- Paper Submission: ~~September 15~~ September 24, 2021 (11:59 pm anywhere on earth (UTC -12))
 - Notification of Paper Acceptance: October 11, 2021
 
 
