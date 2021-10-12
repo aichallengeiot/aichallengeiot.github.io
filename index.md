@@ -72,12 +72,12 @@ The call for papers is available [here](https://aichallengeiot.github.io/cfp.htm
 
 
 ##### Program Committee
-- [Achin Jain] (Amazon, USA)
+- [Achin Jain](https://jainachin.github.io/) (Amazon, USA)
 - [Andreas Reinhardt](https://www.areinhardt.de/) (TU Clausthal, Germany)
 - [Bo Wei](https://www.northumbria.ac.uk/about-us/our-staff/w/bo-wei/) (Northumbria University, UK)
-- [Dezhi Hong] (University of California, San Diego, USA)
+- [Dezhi Hong](https://cseweb.ucsd.edu/~dehong/) (University of California, San Diego, USA)
 - [Diana Popescu](https://www.kcl.ac.uk/people/diana-popescu) (Cambridge University, UK)
-- [Francesco Fraternali] (University of California, San Diego, USA)
+- [Francesco Fraternali](https://cseweb.ucsd.edu/~frfrater/) (University of California, San Diego, USA)
 - [Le Viet Duc](https://people.utwente.nl/v.d.le) (University of Twente, Netherlands)
 - [Liangzhen Lia](https://aichallengeiot.github.io) (Facebook, USA)
 - [Manuel Roveri](http://roveri.faculty.polimi.it/) (Politecnico di Milano, Italy)
@@ -85,7 +85,7 @@ The call for papers is available [here](https://aichallengeiot.github.io/cfp.htm
 - [Rui Tan](https://personal.ntu.edu.sg/tanrui/) (Nanyang Technological University, Singapore)
 - [Salma Elmalaki](https://faculty.sites.uci.edu/elmalaki/) (UC Irvine, USA)
 - [Shaohan Hu](https://hushaohan.github.io/) (JPMorgan Chase - Future Lab for Applied Research and Engineering, USA)
-- [Sujan Kumar Gonugondla] (Amazon, USA)
+- [Sujan Kumar Gonugondla](https://www.linkedin.com/in/sujan-kumar-gonugondla-ab6787142) (Amazon, USA)
 - [Swarnava Dey](https://aichallengeiot.github.io) (Tata Consultancy Services Ltd.)
 - [Urmish Thakker](https://urmish.github.io/) (ARM, USA)
 
