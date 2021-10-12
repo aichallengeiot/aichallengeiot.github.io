@@ -46,7 +46,7 @@ The call for papers is available [here](https://aichallengeiot.github.io/cfp.htm
 #### Important Dates
 - ~~Abstract Registration: September 8, 2021 (11:59 pm anywhere on earth (UTC -12))~~  New submissions are now allowed until the paper submission deadline
 - Paper Submission: ~~September 15~~ FINAL deadline - **September 24, 2021** (11:59 pm anywhere on earth (UTC -12))
-- Notification of Paper Acceptance: October 11, 2021
+- Notification of Paper Acceptance: October 15, 2021
 
 
 #### Workshop History
@@ -72,9 +72,12 @@ The call for papers is available [here](https://aichallengeiot.github.io/cfp.htm
 
 
 ##### Program Committee
+- [Achin Jain] (Amazon, USA)
 - [Andreas Reinhardt](https://www.areinhardt.de/) (TU Clausthal, Germany)
 - [Bo Wei](https://www.northumbria.ac.uk/about-us/our-staff/w/bo-wei/) (Northumbria University, UK)
+- [Dezhi Hong] (University of California, San Diego, USA)
 - [Diana Popescu](https://www.kcl.ac.uk/people/diana-popescu) (Cambridge University, UK)
+- [Francesco Fraternali] (University of California, San Diego, USA)
 - [Le Viet Duc](https://people.utwente.nl/v.d.le) (University of Twente, Netherlands)
 - [Liangzhen Lia](https://aichallengeiot.github.io) (Facebook, USA)
 - [Manuel Roveri](http://roveri.faculty.polimi.it/) (Politecnico di Milano, Italy)
@@ -82,6 +85,7 @@ The call for papers is available [here](https://aichallengeiot.github.io/cfp.htm
 - [Rui Tan](https://personal.ntu.edu.sg/tanrui/) (Nanyang Technological University, Singapore)
 - [Salma Elmalaki](https://faculty.sites.uci.edu/elmalaki/) (UC Irvine, USA)
 - [Shaohan Hu](https://hushaohan.github.io/) (JPMorgan Chase - Future Lab for Applied Research and Engineering, USA)
+- [Sujan Kumar Gonugondla] (Amazon, USA)
 - [Swarnava Dey](https://aichallengeiot.github.io) (Tata Consultancy Services Ltd.)
 - [Urmish Thakker](https://urmish.github.io/) (ARM, USA)
 
