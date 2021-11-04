@@ -37,7 +37,43 @@ function writeTimeRange(startTime, endTime) {
 }
 </script>
 
+#### Accepted Papers
 
+**Federated Learning for Internet of Things**
+*Tuo Zhang, Chaoyang He, Tianhao Ma, Lei Gao, Mark Ma, Salman Avestimehr (University of Southern California)*
+
+**OntoAugment: Ontology Matching through Weakly-Supervised Label Augmentation**
+*Fabio Maresca (University of Naples Federico II), Gürkan Solmaz (NEC Laboratories Europe), Flavio Cirillo (NEC Laboratories Europe)*
+
+**Better Never Than Late: Timely Edge Video Analytics Over the Air**
+*Vinod Nigade, Ramon Winder, Henri Bal (VU Amsterdam), Lin Wang (VU Amsterdam & TU Darmstadt)*
+
+**Exploring Co-dependency of IoT Data Quality and Model Robustness in Precision Cattle Farming**
+*Franz Papst (TU Graz / CSH Vienna), Katharina Schodl (ZuchtData EDV-Dienstleistungen GmbH), Olga Saukh (TU Graz / CSH Vienna)*
+
+**Characterising the Role of Pre-Processing Parameters in Audio-based Embedded Machine Learning**
+*Wiebke Toussaint (Delft University of Technology), Akhil Mathur (Nokia Bell Labs), Aaron Yi Ding (Delft University of Technology), Fahim Kawsar (Nokia Bell Labs)*
+
+**Device or User: Rethinking Federated Learning in Personal-Scale Multi-Device Environments**
+*Hyunsung Cho (Carnegie Mellon University), Akhil Mathur, Fahim Kawsar (Nokia Bell Labs)*
+
+**Decentralized Federated Learning Framework for the Neighborhood: A Case Study on Residential Building Load Forecasting**
+*Jiechao Gao, Wenpeng Wang, Zetian Liu, Md Fazlay Rabbi Masum Billah, Brad Campbell (University of Virginia)*
+
+**Sensor Virtualization for Efficient Sharing of Mobile and Wearable Sensors**
+*Jian Xu (Stony Brook University), Arani Bhattacharya (IIIT-Delhi), Aruna Balasubramanian (Stony Brook University), Donald E. Porter (UNC Chapel Hill)*
+
+**Deep Contextualized Compressive Offloading for Images**
+*Bo Chen (University of Illinois at Urbana-Champaign), Zhisheng Yan (George Mason University), Hongpeng Guo, Zhe Yang(University of Illinois at Urbana-Champaign), Ahmed Ali-Eldin (Chalmers University of Technology and UMass Amherst), Prashant Shenoy (University of Massachusetts Amherst), Klara Nahrstedt (University of Illinois at Urbana-Champaign)*
+
+**Vision Paper: Towards Software-Defined Video Analytics with Cross-Camera Collaboration**
+*Juheon Yi (Seoul National University), Chulhong Min, Fahim Kawsar (Nokia Bell Labs)*
+
+**Through-Screen Visible Light Sensing Empowered by Embedded Deep Learning**
+*Hao Liu, Hanting Ye, Jie Yang, Qing Wang (Delft University of Technology)*
+
+**AI-assisted Cell-Level Fault Detection and Localization in Solar PV Electroluminescence Images**
+*Ahan M R, Akshay Nambi, Tanuja Ganu, Dhananjay Nahata, Shivkumar Kalyanaraman (Microsoft Research)*
 
 #### Call for Papers
 
