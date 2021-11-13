@@ -79,6 +79,7 @@ Some examples:
 
 
 ***Technical Session 2***
+
 **11:30 - 11:50 (GMT time zone): [AI-assisted Cell-Level Fault Detection and Localization in Solar PV Electroluminescence Images]()**  
 *Ahan M R, Akshay Nambi, Tanuja Ganu, Dhananjay Nahata, Shivkumar Kalyanaraman (Microsoft Research)*
 
@@ -100,6 +101,7 @@ Some examples:
 
 
 ***Technical Session 3***
+
 **14:00 - 14:20 (GMT time zone): [Sensor Virtualization for Efficient Sharing of Mobile and Wearable Sensors]()** 
 *Jian Xu (Stony Brook University), Arani Bhattacharya (IIIT-Delhi), Aruna Balasubramanian (Stony Brook University), Donald E. Porter (UNC Chapel Hill)*
 
