@@ -102,8 +102,8 @@ Some examples:
 
 ***Technical Session 3***
 
-**14:00 - 14:20 (GMT time zone): [Sensor Virtualization for Efficient Sharing of Mobile and Wearable Sensors]()** 
-*Jian Xu (Stony Brook University), Arani Bhattacharya (IIIT-Delhi), Aruna Balasubramanian (Stony Brook University), Donald E. Porter (UNC Chapel Hill)*
+**14:00 - 14:20 (GMT time zone): [Deep Contextualized Compressive Offloading for Images]()**
+*Bo Chen (University of Illinois at Urbana-Champaign), Zhisheng Yan (George Mason University), Hongpeng Guo, Zhe Yang(University of Illinois at Urbana-Champaign), Ahmed Ali-Eldin (Chalmers University of Technology and UMass Amherst), Prashant Shenoy (University of Massachusetts Amherst), Klara Nahrstedt (University of Illinois at Urbana-Champaign)*
 
 **14:20 - 14:40 (GMT time zone): [Federated Learning for Internet of Things]()** 
 *Tuo Zhang, Chaoyang He, Tianhao Ma, Lei Gao, Mark Ma, Salman Avestimehr (University of Southern California)*
@@ -111,8 +111,8 @@ Some examples:
 **14:40 - 15:00 (GMT time zone): [Device or User: Rethinking Federated Learning in Personal-Scale Multi-Device Environments]()**
 *Hyunsung Cho (Carnegie Mellon University), Akhil Mathur, Fahim Kawsar (Nokia Bell Labs)*
 
-**15:00 - 15:20 (GMT time zone): [Deep Contextualized Compressive Offloading for Images]()**
-*Bo Chen (University of Illinois at Urbana-Champaign), Zhisheng Yan (George Mason University), Hongpeng Guo, Zhe Yang(University of Illinois at Urbana-Champaign), Ahmed Ali-Eldin (Chalmers University of Technology and UMass Amherst), Prashant Shenoy (University of Massachusetts Amherst), Klara Nahrstedt (University of Illinois at Urbana-Champaign)*
+**15:00 - 15:20 (GMT time zone): [Sensor Virtualization for Efficient Sharing of Mobile and Wearable Sensors]()** 
+*Jian Xu (Stony Brook University), Arani Bhattacharya (IIIT-Delhi), Aruna Balasubramanian (Stony Brook University), Donald E. Porter (UNC Chapel Hill)*
 
 **15:20 - 15:40 (GMT time zone): [Decentralized Federated Learning Framework for the Neighborhood: A Case Study on Residential Building Load Forecasting]()** 
 *Jiechao Gao, Wenpeng Wang, Zetian Liu, Md Fazlay Rabbi Masum Billah, Brad Campbell (University of Virginia)*
