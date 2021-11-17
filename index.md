@@ -70,13 +70,13 @@ Some examples:
 
 ***Technical Session 1***  
 
-**10:10 - 10:30 (GMT time zone): [Better Never Than Late: Timely Edge Video Analytics Over the Air]()**  
+**10:10 - 10:30 (GMT time zone): [Better Never Than Late: Timely Edge Video Analytics Over the Air](https://dl.acm.org/doi/10.1145/3485730.3493446)**  
 *Vinod Nigade, Ramon Winder, Henri Bal (VU Amsterdam), Lin Wang (VU Amsterdam & TU Darmstadt)*
 
-**10:30 - 10:50 (GMT time zone): [Characterising the Role of Pre-Processing Parameters in Audio-based Embedded Machine Learning]()**  
+**10:30 - 10:50 (GMT time zone): [Characterising the Role of Pre-Processing Parameters in Audio-based Embedded Machine Learning](https://dl.acm.org/doi/10.1145/3485730.3493448)**  
 *Wiebke Toussaint (Delft University of Technology), Akhil Mathur (Nokia Bell Labs), Aaron Yi Ding (Delft University of Technology), Fahim Kawsar (Nokia Bell Labs)*
 
-**10:50 - 11:10 (GMT time zone): [Vision Paper: Towards Software-Defined Video Analytics with Cross-Camera Collaboration]()**  
+**10:50 - 11:10 (GMT time zone): [Vision Paper: Towards Software-Defined Video Analytics with Cross-Camera Collaboration](https://dl.acm.org/doi/10.1145/3485730.3493453)**  
 *Juheon Yi (Seoul National University), Chulhong Min, Fahim Kawsar (Nokia Bell Labs)*
 
 <br/>
@@ -88,16 +88,16 @@ Some examples:
 
 ***Technical Session 2***
 
-**11:30 - 11:50 (GMT time zone): [AI-assisted Cell-Level Fault Detection and Localization in Solar PV Electroluminescence Images]()**  
+**11:30 - 11:50 (GMT time zone): [AI-assisted Cell-Level Fault Detection and Localization in Solar PV Electroluminescence Images](https://dl.acm.org/doi/10.1145/3485730.3493455)**  
 *Ahan M R, Akshay Nambi, Tanuja Ganu, Dhananjay Nahata, Shivkumar Kalyanaraman (Microsoft Research)*
 
-**11:50 - 12:10 (GMT time zone): [Exploring Co-dependency of IoT Data Quality and Model Robustness in Precision Cattle Farming]()**  
+**11:50 - 12:10 (GMT time zone): [Exploring Co-dependency of IoT Data Quality and Model Robustness in Precision Cattle Farming](https://dl.acm.org/doi/10.1145/3485730.3493447)**  
 *Franz Papst (TU Graz / CSH Vienna), Katharina Schodl (ZuchtData EDV-Dienstleistungen GmbH), Olga Saukh (TU Graz / CSH Vienna)*
 
-**12:10 - 12:30 (GMT time zone): [OntoAugment: Ontology Matching through Weakly-Supervised Label Augmentation]()**  
+**12:10 - 12:30 (GMT time zone): [OntoAugment: Ontology Matching through Weakly-Supervised Label Augmentation](https://dl.acm.org/doi/10.1145/3485730.3493445)**  
 *Fabio Maresca (University of Naples Federico II), Gürkan Solmaz (NEC Laboratories Europe), Flavio Cirillo (NEC Laboratories Europe)*
 
-**12:30 - 12:50 (GMT time zone): [Through-Screen Visible Light Sensing Empowered by Embedded Deep Learning]()** 
+**12:30 - 12:50 (GMT time zone): [Through-Screen Visible Light Sensing Empowered by Embedded Deep Learning](https://dl.acm.org/doi/10.1145/3485730.3493454)** 
 *Hao Liu, Hanting Ye, Jie Yang, Qing Wang (Delft University of Technology)*
 
 
@@ -110,19 +110,19 @@ Some examples:
 
 ***Technical Session 3***
 
-**14:00 - 14:20 (GMT time zone): [Deep Contextualized Compressive Offloading for Images]()**
+**14:00 - 14:20 (GMT time zone): [Deep Contextualized Compressive Offloading for Images](https://dl.acm.org/doi/10.1145/3485730.3493452)**
 *Bo Chen (University of Illinois at Urbana-Champaign), Zhisheng Yan (George Mason University), Hongpeng Guo, Zhe Yang(University of Illinois at Urbana-Champaign), Ahmed Ali-Eldin (Chalmers University of Technology and UMass Amherst), Prashant Shenoy (University of Massachusetts Amherst), Klara Nahrstedt (University of Illinois at Urbana-Champaign)*
 
-**14:20 - 14:40 (GMT time zone): [Federated Learning for Internet of Things]()** 
+**14:20 - 14:40 (GMT time zone): [Federated Learning for Internet of Things](https://dl.acm.org/doi/10.1145/3485730.3493444)** 
 *Tuo Zhang, Chaoyang He, Tianhao Ma, Lei Gao, Mark Ma, Salman Avestimehr (University of Southern California)*
 
-**14:40 - 15:00 (GMT time zone): [Device or User: Rethinking Federated Learning in Personal-Scale Multi-Device Environments]()**
+**14:40 - 15:00 (GMT time zone): [Device or User: Rethinking Federated Learning in Personal-Scale Multi-Device Environments](https://dl.acm.org/doi/10.1145/3485730.3493449)**
 *Hyunsung Cho (Carnegie Mellon University), Akhil Mathur, Fahim Kawsar (Nokia Bell Labs)*
 
-**15:00 - 15:20 (GMT time zone): [Sensor Virtualization for Efficient Sharing of Mobile and Wearable Sensors]()** 
+**15:00 - 15:20 (GMT time zone): [Sensor Virtualization for Efficient Sharing of Mobile and Wearable Sensors](https://dl.acm.org/doi/10.1145/3485730.3493451)** 
 *Jian Xu (Stony Brook University), Arani Bhattacharya (IIIT-Delhi), Aruna Balasubramanian (Stony Brook University), Donald E. Porter (UNC Chapel Hill)*
 
-**15:20 - 15:40 (GMT time zone): [Decentralized Federated Learning Framework for the Neighborhood: A Case Study on Residential Building Load Forecasting]()** 
+**15:20 - 15:40 (GMT time zone): [Decentralized Federated Learning Framework for the Neighborhood: A Case Study on Residential Building Load Forecasting](https://dl.acm.org/doi/10.1145/3485730.3493450)** 
 *Jiechao Gao, Wenpeng Wang, Zetian Liu, Md Fazlay Rabbi Masum Billah, Brad Campbell (University of Virginia)*
 
 
