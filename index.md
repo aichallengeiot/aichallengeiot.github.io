@@ -89,7 +89,7 @@ Some examples:
 ***Technical Session 2***
 
 **11:30 - 11:50 (GMT time zone): [AI-assisted Cell-Level Fault Detection and Localization in Solar PV Electroluminescence Images](https://dl.acm.org/doi/10.1145/3485730.3493455)**  
-*Ahan M R, Akshay Nambi, Tanuja Ganu, Dhananjay Nahata, Shivkumar Kalyanaraman (Microsoft Research)*
+*Ahan M R, Akshay Nambi, Tanuja Ganu, Dhananjay Nahata, Shivkumar Kalyanaraman (Microsoft Research)* - **<span style="color:red">Best Paper Award</span>**
 
 **11:50 - 12:10 (GMT time zone): [Exploring Co-dependency of IoT Data Quality and Model Robustness in Precision Cattle Farming](https://dl.acm.org/doi/10.1145/3485730.3493447)**  
 *Franz Papst (TU Graz / CSH Vienna), Katharina Schodl (ZuchtData EDV-Dienstleistungen GmbH), Olga Saukh (TU Graz / CSH Vienna)*
