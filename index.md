@@ -41,8 +41,6 @@ function writeTimeRange(startTime, endTime) {
 
 **<u>Location:</u>** Convento de São Francisco: Room Aeminium - C1A2
 
-**<u>Zoom link:</u>** [https://sensys-buildsys-21.dei.uc.pt/vc/room2](https://sensys-buildsys-21.dei.uc.pt/vc/room2)
- 
 **<u>Youtube channel:</u>** [https://sensys-buildsys-21.dei.uc.pt/yt/room2](https://sensys-buildsys-21.dei.uc.pt/yt/room2)
 
 <br/>
