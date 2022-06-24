@@ -1,148 +1,48 @@
-The **3rd International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT 2021)** will be held in conjunction with [ACM SenSys 2021](http://sensys.acm.org/2021/).
+The **4th International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT 2022)** will be held in conjunction with [ACM SenSys 2022](http://sensys.acm.org/2022/).
 
+Artificial intelligence (AI) and machine learning (ML) are key enabling technologies for many Internet of Things (IoT) applications. However, the collection and processing of data for AI and ML is very challenging in the IoT domain. For example, there are usually a large number of low-powered sensors deployed in large geographical areas with possibly intermittent network connectivity. The sensors and their collected data may be owned by different users or organizations, which can bring further obstacles to data collection due to privacy concerns and noisy labels provided by different users. The successful application of AI/ML approaches in such scenarios with noisy and decentralized data is difficult. In addition, the amount of collected data that can be used for training AI/ML models is usually proportional to the number of users in the system, but the system may not be able to attract many users without a well-trained AI/ML model, and it is challenging to solve this dilemma.
 
-<script type="text/javascript">
-function displayDate(dt) {
-  var hour = dt.getHours();
-  var minute = dt.getMinutes();
-  var temp = '' + ((hour > 12) ? hour - 12 : hour);
-  if (hour == 0)
-    temp = '12';
-  temp += ((minute < 10) ? ':0' : ':') + minute;
-  temp += (hour >= 12) ? ' PM' : ' AM';
-  temp += (dt.getDay() - dt.getUTCDay() == 1 ? ' (Nov. 17)' : '');
-  return temp;
-}
+This workshop focuses on how to address the above and other unique challenges of applying AI/ML in IoT systems. 
 
-function getTimezoneOffset() {
-  var offset = -(new Date()).getTimezoneOffset()/60;
-  var temp = "UTC" + (offset >= 0 ? "+" : "") + offset;
-  return temp;
-}
+We invite researchers and practitioners to submit *papers describing original work, experiences, or vision* related to the entire lifecycle of an IoT system powered by AI and ML, including (but not limited to) the following topics:
 
-function getLocalTimezone() {
-  try {
-    return Intl.DateTimeFormat().resolvedOptions().timeZone + ", " + getTimezoneOffset();
-  }
-  catch(e) {
-    return getTimezoneOffset();
-  }
-}
+- AI/ML in multi-agent, distributed, and decentralized settings
+- AI/ML on low-powered and/or intermittently connected devices
+- AI/ML with noisy and possibly adversarial data and labels
+- Algorithms and techniques for evolving from a new system that is initially trained with only a small amount of data
+- Algorithms and techniques for making use of data collected by geographically dispersed sensors to provide useful services through AI/ML
+- Algorithms and techniques for reducing human effort in data labeling, including active learning
+- Algorithms and techniques for sharing data and training AI/ML models while preserving user sensitive information, including federated learning
+- Design and implementation of AI/ML-powered IoT systems
+- Hardware, software, and tools for AI/ML in IoT
+- IoT applications enabled by AI/ML
+- Privacy and security of AI/ML in IoT
 
-function writeTimeRange(startTime, endTime) {
-  var startTimeObj = new Date("2020-11-16T" + startTime + ":00.000+00:00");
-  var endTimeObj = new Date("2020-11-16T" + endTime + ":00.000+00:00");
+Submissions focusing on specific IoT applications and generic IoT systems are both welcome. We specifically encourage papers with forward-looking ideas that may initiate new research directions. We solicit the following types of submissions:
 
-  return document.write(displayDate(startTimeObj) + " - " + displayDate(endTimeObj) + " (" + getLocalTimezone() +")");
-}
-</script>
-  
-<br/>
+- **Regular papers** describing novel research work or experiences, up to 6 pages including figures and tables, but not including references (references can use additional pages as needed), which will be presented at the workshop as oral presentation
+- **Vision/position papers** describing new research directions and challenges, up to 4 pages including figures, tables, and references, which will be presented at the workshop as a short oral presentation followed by interactive discussions
 
-**<u>Location:</u>** Convento de São Francisco: Room Aeminium - C1A2
+Submitted papers should be previously unpublished and not currently under review by another conference or journal. All accepted regular papers and vision/position papers will be published in the conference proceedings and the ACM Digital Library. 
 
-**<u>Youtube channel:</u>** [https://sensys-buildsys-21.dei.uc.pt/yt/room2](https://sensys-buildsys-21.dei.uc.pt/yt/room2)
+All submissions should use the double column ACM proceedings format. The ACM template is available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). LaTeX submissions should use the acmart.cls template (sigconf option), with the default 9-pt font. This format will be used also for the camera-ready version of accepted regular and vision/position papers. The submissions should include authors' names and affiliations (i.e., *not* be double-blind). Submissions will be reviewed by the program committee for novelty, relevance, and quality. At least one of the authors of every accepted paper/presentation must register and present the work at the workshop. Submissions should be in Adobe Portable Document Format (PDF).
 
-<br/>
+The organizing committee will select a *best paper award* among submitted papers, which will be announced at the workshop.
 
-### Workshop Program (Wednesday, November 17, 2021)
-
-<br/>
-
-**NOTE: All times below are in Coordinated Universal Time (GMT). To convert to your local time zone, you may visit [here](https://time.is/compare/1000AM_17_Nov_2021_in_UTC)**.  
-Some examples:  
-
-- PST (U.S. Pacific) = UTC-8
-- EST (U.S. Eastern) = UTC-5 
-- GMT (Coimbra, Portugal) = UTC+0  
-- CET (Central Europe) = UTC+1  
-- IST (India) = UTC+5:30  
-- CST (China) = UTC+8  
-- JST (Japan) = UTC+9
-
-**10:00 - 10:10 (GMT time zone): [Welcome & Opening Remarks]()**  
-- [Shuochao Yao]() (Geroge Mason University, USA)
-- [Bharathan Balaji]() (Amazon AI Lab, USA)
-
-<br/>
-
-***Technical Session 1***  
-
-**10:10 - 10:30 (GMT time zone): [Better Never Than Late: Timely Edge Video Analytics Over the Air](https://dl.acm.org/doi/10.1145/3485730.3493446)**  
-*Vinod Nigade, Ramon Winder, Henri Bal (VU Amsterdam), Lin Wang (VU Amsterdam & TU Darmstadt)*
-
-**10:30 - 10:50 (GMT time zone): [Characterising the Role of Pre-Processing Parameters in Audio-based Embedded Machine Learning](https://dl.acm.org/doi/10.1145/3485730.3493448)**  
-*Wiebke Toussaint (Delft University of Technology), Akhil Mathur (Nokia Bell Labs), Aaron Yi Ding (Delft University of Technology), Fahim Kawsar (Nokia Bell Labs)*
-
-**10:50 - 11:10 (GMT time zone): [Vision Paper: Towards Software-Defined Video Analytics with Cross-Camera Collaboration](https://dl.acm.org/doi/10.1145/3485730.3493453)**  
-*Juheon Yi (Seoul National University), Chulhong Min, Fahim Kawsar (Nokia Bell Labs)*
-
-<br/>
-
-**11:10 - 11:30 (GMT time zone): Break**
-
-<br/>
-
-
-***Technical Session 2***
-
-**11:30 - 11:50 (GMT time zone): [AI-assisted Cell-Level Fault Detection and Localization in Solar PV Electroluminescence Images](https://dl.acm.org/doi/10.1145/3485730.3493455)**  
-*Ahan M R, Akshay Nambi, Tanuja Ganu, Dhananjay Nahata, Shivkumar Kalyanaraman (Microsoft Research)* - **<span style="color:red">Best Paper Award</span>**
-
-**11:50 - 12:10 (GMT time zone): [Exploring Co-dependency of IoT Data Quality and Model Robustness in Precision Cattle Farming](https://dl.acm.org/doi/10.1145/3485730.3493447)**  
-*Franz Papst (TU Graz / CSH Vienna), Katharina Schodl (ZuchtData EDV-Dienstleistungen GmbH), Olga Saukh (TU Graz / CSH Vienna)*
-
-**12:10 - 12:30 (GMT time zone): [OntoAugment: Ontology Matching through Weakly-Supervised Label Augmentation](https://dl.acm.org/doi/10.1145/3485730.3493445)**  
-*Fabio Maresca (University of Naples Federico II), Gürkan Solmaz (NEC Laboratories Europe), Flavio Cirillo (NEC Laboratories Europe)*
-
-**12:30 - 12:50 (GMT time zone): [Through-Screen Visible Light Sensing Empowered by Embedded Deep Learning](https://dl.acm.org/doi/10.1145/3485730.3493454)** 
-*Hao Liu, Hanting Ye, Jie Yang, Qing Wang (Delft University of Technology)*
-
-
-<br/>
-
-**12:50 - 14:00 (GMT time zone): Break**
-
-<br/>
-
-
-***Technical Session 3***
-
-**14:00 - 14:20 (GMT time zone): [Deep Contextualized Compressive Offloading for Images](https://dl.acm.org/doi/10.1145/3485730.3493452)**
-*Bo Chen (University of Illinois at Urbana-Champaign), Zhisheng Yan (George Mason University), Hongpeng Guo, Zhe Yang(University of Illinois at Urbana-Champaign), Ahmed Ali-Eldin (Chalmers University of Technology and UMass Amherst), Prashant Shenoy (University of Massachusetts Amherst), Klara Nahrstedt (University of Illinois at Urbana-Champaign)*
-
-**14:20 - 14:40 (GMT time zone): [Federated Learning for Internet of Things](https://dl.acm.org/doi/10.1145/3485730.3493444)** 
-*Tuo Zhang, Chaoyang He, Tianhao Ma, Lei Gao, Mark Ma, Salman Avestimehr (University of Southern California)*
-
-**14:40 - 15:00 (GMT time zone): [Device or User: Rethinking Federated Learning in Personal-Scale Multi-Device Environments](https://dl.acm.org/doi/10.1145/3485730.3493449)**
-*Hyunsung Cho (Carnegie Mellon University), Akhil Mathur, Fahim Kawsar (Nokia Bell Labs)*
-
-**15:00 - 15:20 (GMT time zone): [Sensor Virtualization for Efficient Sharing of Mobile and Wearable Sensors](https://dl.acm.org/doi/10.1145/3485730.3493451)** 
-*Jian Xu (Stony Brook University), Arani Bhattacharya (IIIT-Delhi), Aruna Balasubramanian (Stony Brook University), Donald E. Porter (UNC Chapel Hill)*
-
-**15:20 - 15:40 (GMT time zone): [Decentralized Federated Learning Framework for the Neighborhood: A Case Study on Residential Building Load Forecasting](https://dl.acm.org/doi/10.1145/3485730.3493450)** 
-*Jiechao Gao, Wenpeng Wang, Zetian Liu, Md Fazlay Rabbi Masum Billah, Brad Campbell (University of Virginia)*
-
-
-<br/>
-
-**15:40 - 15:50 (GMT time zone): Closing Remarks**
-
-<br/>
-
-
-#### Call for Papers
-
-The call for papers is available [here](https://aichallengeiot.github.io/cfp.html)
+**The link for submission is:** TBD
 
 #### Important Dates
-- ~~Abstract Registration: September 8, 2021 (11:59 pm anywhere on earth (UTC -12))~~  New submissions are now allowed until the paper submission deadline
-- Paper Submission: ~~September 15~~ FINAL deadline - **September 24, 2021** (11:59 pm anywhere on earth (UTC -12))
-- Notification of Paper Acceptance: October 15, 2021
+- Abstract Registration: August 29, 2022 (11:59 pm anywhere on earth (UTC -12))
+- Paper Submission: September 5, 2022 (11:59 pm anywhere on earth (UTC -12))
+- Notification of Paper Acceptance: October 3, 2022
+
+
+
 
 
 #### Workshop History
 
+- [2021](https://aichallengeiot.github.io/2021/index.html)
 - [2020](https://aichallengeiot.github.io/2020/index.html)
 - [2019](https://aichallengeiot.github.io/2019/index.html)
 
@@ -152,34 +52,20 @@ The call for papers is available [here](https://aichallengeiot.github.io/cfp.htm
 
 ##### Program Chairs
 
-- [Shuochao Yao](https://yscacaca.github.io/) (George Mason University, USA)
-- [Bharathan Balaji](https://www.synergylabs.org/bharath/) (Amazon AI Lab, USA)
-
+- [Luis Garcia](https://lagarcia.us) (University of Southern California Information Sciences Institute, USA)
+- [Dezhi Hong](https://www.linkedin.com/in/dezhi-hong-057b4234/) (Amazon, USA)
 
 ##### Steering Committee
 
-- [Shiqiang Wang](https://researcher.watson.ibm.com/researcher/view.php?person=us-wangshiq) (IBM T. J. Watson Research Center, USA)
+- [Bharathan Balaji](https://www.synergylabs.org/bharath/) (Amazon AI Lab, USA)
 - [Jorge Ortiz](http://jorgeortizphd.info/) (Rutgers University, USA)
 - [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles, USA)
+- [Shiqiang Wang](https://researcher.watson.ibm.com/researcher/view.php?person=us-wangshiq) (IBM T. J. Watson Research Center, USA)
+- [Shuochao Yao](https://yscacaca.github.io/) (George Mason University, USA)
 
 
 ##### Program Committee
-- [Achin Jain](https://jainachin.github.io/) (Amazon, USA)
-- [Andreas Reinhardt](https://www.areinhardt.de/) (TU Clausthal, Germany)
-- [Bo Wei](https://www.northumbria.ac.uk/about-us/our-staff/w/bo-wei/) (Northumbria University, UK)
-- [Dezhi Hong](https://cseweb.ucsd.edu/~dehong/) (University of California, San Diego, USA)
-- [Diana Popescu](https://www.kcl.ac.uk/people/diana-popescu) (Cambridge University, UK)
-- [Francesco Fraternali](https://cseweb.ucsd.edu/~frfrater/) (University of California, San Diego, USA)
-- [Le Viet Duc](https://people.utwente.nl/v.d.le) (University of Twente, Netherlands)
-- [Liangzhen Lia](https://aichallengeiot.github.io) (Facebook, USA)
-- [Manuel Roveri](http://roveri.faculty.polimi.it/) (Politecnico di Milano, Italy)
-- [Qing Wang](https://www.st.ewi.tudelft.nl/qing/) (TU Delft, Netherlands)
-- [Rui Tan](https://personal.ntu.edu.sg/tanrui/) (Nanyang Technological University, Singapore)
-- [Salma Elmalaki](https://faculty.sites.uci.edu/elmalaki/) (UC Irvine, USA)
-- [Shaohan Hu](https://hushaohan.github.io/) (JPMorgan Chase - Future Lab for Applied Research and Engineering, USA)
-- [Sujan Kumar Gonugondla](https://www.linkedin.com/in/sujan-kumar-gonugondla-ab6787142) (Amazon, USA)
-- [Swarnava Dey](https://aichallengeiot.github.io) (Tata Consultancy Services Ltd.)
-- [Urmish Thakker](https://urmish.github.io/) (ARM, USA)
+TBD
 
 
 <script type="text/javascript">
