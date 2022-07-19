@@ -29,7 +29,7 @@ All submissions should use the double column ACM proceedings format. The ACM tem
 
 The organizing committee will select a *best paper award* among submitted papers, which will be announced at the workshop.
 
-**The link for submission is:** TBD
+**The link for submission is:** [https://aichallenge22.hotcrp.com/](https://aichallenge22.hotcrp.com/)
 
 #### Important Dates
 - Abstract Registration: August 29, 2022 (11:59 pm anywhere on earth (UTC -12))
@@ -65,7 +65,18 @@ The organizing committee will select a *best paper award* among submitted papers
 
 
 ##### Program Committee
-TBD
+- [Andreas Reinhardt](https://www.areinhardt.de/) (TU Clausthal, Germany)
+- [Diana Popescu](https://www.kcl.ac.uk/people/diana-popescu) (Cambridge University, UK)
+- [Dong Chen](https://people.mines.edu/dongchen/) (Colorado School of Mines)
+- [Ing-Ray Chen](https://people.cs.vt.edu/~irchen/) (Virginia Tech)
+- [Lin Wang](https://linwang.info/) (Vrije Universiteit Amsterdam)
+- [Manuel Roveri](http://roveri.faculty.polimi.it/) (Politecnico di Milano, Italy)
+- [Qing Wang](https://www.st.ewi.tudelft.nl/qing/) (TU Delft, Netherlands)
+- [Rui Tan](https://personal.ntu.edu.sg/tanrui/) (Nanyang Technological University, Singapore)
+- [Salma Elmalaki](https://faculty.sites.uci.edu/elmalaki/) (UC Irvine, USA)
+- [Sandeep Sandha](https://sites.google.com/view/sandeep-/home) (Amazon)
+- [Syed Shabih Hasan](https://sites.google.com/site/hasanshabih/) (Delos)
+- [Swarnava Dey](https://aichallengeiot.github.io) (Tata Consultancy Services Ltd.)
 
 
 <script type="text/javascript">
