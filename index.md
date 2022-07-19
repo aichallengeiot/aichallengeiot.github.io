@@ -71,6 +71,7 @@ The organizing committee will select a *best paper award* among submitted papers
 - [Ing-Ray Chen](https://people.cs.vt.edu/~irchen/) (Virginia Tech)
 - [Lin Wang](https://linwang.info/) (Vrije Universiteit Amsterdam)
 - [Manuel Roveri](http://roveri.faculty.polimi.it/) (Politecnico di Milano, Italy)
+- [Moustafa Alzantot](http://web.cs.ucla.edu/~malzantot/) (Google)
 - [Qing Wang](https://www.st.ewi.tudelft.nl/qing/) (TU Delft, Netherlands)
 - [Rui Tan](https://personal.ntu.edu.sg/tanrui/) (Nanyang Technological University, Singapore)
 - [Salma Elmalaki](https://faculty.sites.uci.edu/elmalaki/) (UC Irvine, USA)
