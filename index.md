@@ -78,6 +78,7 @@ The organizing committee will select a *best paper award* among submitted papers
 - [Sandeep Sandha](https://sites.google.com/view/sandeep-/home) (Amazon)
 - [Syed Shabih Hasan](https://sites.google.com/site/hasanshabih/) (Delos)
 - [Swarnava Dey](https://aichallengeiot.github.io) (Tata Consultancy Services Ltd.)
+- [Vikranth Jeyakumar](https://nesl.ee.ucla.edu/people/434) (NVIDIA)
 
 
 <script type="text/javascript">
