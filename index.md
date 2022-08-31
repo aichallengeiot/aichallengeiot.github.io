@@ -32,9 +32,10 @@ The organizing committee will select a *best paper award* among submitted papers
 **The link for submission is:** [https://aichallenge22.hotcrp.com/](https://aichallenge22.hotcrp.com/)
 
 #### Important Dates
-- Abstract Registration: August 29, 2022 (11:59 pm anywhere on earth (UTC -12))
-- Paper Submission: September 5, 2022 (11:59 pm anywhere on earth (UTC -12))
-- Notification of Paper Acceptance: October 3, 2022
+- Abstract Registration: ~~August 29, 2022~~ September 19, 2022 (11:59 pm anywhere on earth (UTC -12))
+- Paper Submission: ~~September 5, 2022~~ September 19, 2022 (11:59 pm anywhere on earth (UTC -12))
+- Notification of Paper Acceptance: ~~October 3, 2022~~ October 11, 2022
+- Camera-ready Deadline: October 17, 2022
 
 
 
