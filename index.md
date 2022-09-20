@@ -80,7 +80,7 @@ The organizing committee will select a *best paper award* among submitted papers
 - [Syed Shabih Hasan](https://sites.google.com/site/hasanshabih/) (Delos)
 - [Swarnava Dey](https://aichallengeiot.github.io) (Tata Consultancy Services Ltd.)
 - [Vikranth Jeyakumar](https://nesl.ee.ucla.edu/people/434) (NVIDIA)
-
+- [Tianwei Xing](https://nesl.ee.ucla.edu/people/422) (Samsung Research)
 
 <script type="text/javascript">
 var sc_project=8539485; 
