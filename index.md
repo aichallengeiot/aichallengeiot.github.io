@@ -4,42 +4,85 @@ Artificial intelligence (AI) and machine learning (ML) are key enabling technolo
 
 This workshop focuses on how to address the above and other unique challenges of applying AI/ML in IoT systems. 
 
-We invite researchers and practitioners to submit *papers describing original work, experiences, or vision* related to the entire lifecycle of an IoT system powered by AI and ML, including (but not limited to) the following topics:
+<br/>
 
-- AI/ML in multi-agent, distributed, and decentralized settings
-- AI/ML on low-powered and/or intermittently connected devices
-- AI/ML with noisy and possibly adversarial data and labels
-- Algorithms and techniques for evolving from a new system that is initially trained with only a small amount of data
-- Algorithms and techniques for making use of data collected by geographically dispersed sensors to provide useful services through AI/ML
-- Algorithms and techniques for reducing human effort in data labeling, including active learning
-- Algorithms and techniques for sharing data and training AI/ML models while preserving user sensitive information, including federated learning
-- Design and implementation of AI/ML-powered IoT systems
-- Hardware, software, and tools for AI/ML in IoT
-- IoT applications enabled by AI/ML
-- Privacy and security of AI/ML in IoT
+### Workshop Program (Sunday, November 10, 2019)
 
-Submissions focusing on specific IoT applications and generic IoT systems are both welcome. We specifically encourage papers with forward-looking ideas that may initiate new research directions. We solicit the following types of submissions:
+<br/>
 
-- **Regular papers** describing novel research work or experiences, up to 6 pages including figures and tables, but not including references (references can use additional pages as needed), which will be presented at the workshop as oral presentation
-- **Vision/position papers** describing new research directions and challenges, up to 4 pages including figures, tables, and references, which will be presented at the workshop as a short oral presentation followed by interactive discussions
+**9:30 - 10:00:** ***Arrival*** (Venue: Room TBD, Hilton Boston Back Bay)
 
-Submitted papers should be previously unpublished and not currently under review by another conference or journal. All accepted regular papers and vision/position papers will be published in the conference proceedings and the ACM Digital Library. 
+<br/>
 
-All submissions should use the double column ACM proceedings format. The ACM template is available at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). LaTeX submissions should use the acmart.cls template (sigconf option), with the default 9-pt font. This format will be used also for the camera-ready version of accepted regular and vision/position papers. The submissions should include authors' names and affiliations (i.e., *not* be double-blind). Submissions will be reviewed by the program committee for novelty, relevance, and quality. At least one of the authors of every accepted paper/presentation must register and present the work at the workshop. Submissions should be in Adobe Portable Document Format (PDF).
+**10:00 - 10:10:** ***Welcome and Opening Remarks*** (Luis Garcia)
 
-The organizing committee will select a *best paper award* among submitted papers, which will be announced at the workshop.
+<br/>
 
-**The link for submission is:** [https://aichallenge22.hotcrp.com/](https://aichallenge22.hotcrp.com/)
-
-#### Important Dates
-- Abstract Registration: ~~August 29, 2022~~ September 19, 2022 (11:59 pm anywhere on earth (UTC -12))
-- Paper Submission: ~~September 5, 2022~~ September 19, 2022 (11:59 pm anywhere on earth (UTC -12))
-- Notification of Paper Acceptance: ~~October 3, 2022~~ October 11, 2022
-- Camera-ready Deadline: October 17, 2022
+**10:10 - 10:55:** ***Creating sustainable, Data-driven Buildings***  
+Keynote speech by [Bharathan Balaji](https://www.synergylabs.org/bharath/), Amazon AI Lab 
 
 
+<br/>
 
+**10:55 - 11:10:** ***Networking & Morning Break***
 
+<br/>
+
+***Technical Session 1***  
+*Session chair: TBD*
+
+**11:10 - 11:35: Ultra-low Power DNN Accelerators for IoT: Resource Characterisation of the MAX78000**  
+*Arthur Moss (Nokia Bell Labs and Newcastle University); Hyunjong Lee (Nokia Bell Labs and KAIST); Lei Xun (Nokia Bell Labs and University of Southampton); Chulhong Min, Fahim Kawsar, Alessandro Montanari (Nokia Bell Labs)*
+
+**11:35 - 12:00: ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for On-Device Machine Learning in IoT**  
+*Chao Qian, Lukas Einhaus, Gregor Schiele (University of Duisburg-Essen)*
+
+<br/>
+
+**12:00 - 13:30:** ***Lunch Break***
+
+<br/>
+
+***Technical Session 2***  
+*Session chair: TBD*
+
+**13:30 - 14:00: Smart Objects: Impact localization powered by TinyML**  
+*Ioannis Katsidimas (Department of Computer Engineering and Informatics, University of Patras, Greece); Thanasis Kotzakolios (Department of Mechanical Engineering and Aeronautics, University of Patras, Greece); Sotiris Nikoletseas (Department of Computer Engineering and Informatics, University of Patras, Greece and Computer Technology Institute and Press “Diophantus”, Greece); Stefanos H. Panagiotou, Constantinos Tsakonas (Department of Computer Engineering and Informatics, University of Patras, Greece)*
+
+**14:00 - 14:30: The Impact of Cascaded Optimizations in CNN models and End-device Deployment**  
+*Hanan Hussain, PS Tamizharasan (BITS Pilani, Dubai Campus, UAE)*
+
+**14:30 - 15:00: Evaluation of ASR for Conversational Speech in Voice Assistants: A Linguistic Perspective**  
+*Hannaneh B. Pasandi (Virginia Commonwealth University); Haniyeh B. Pasandi (University of Maryland Baltimore County)*
+
+<br/>
+
+**15:00 - 15:15:** ***Afternoon Break***
+
+<br/>
+
+***Technical Session: AI Systems and Applications***  
+*Session chair: Rui Tan (Nanyang Technological University)*
+
+**15:15 - 15:45: CIPhy: Causal Intervention with Physical Confounder from IoT Sensor Data for Robust Occupant Information Inference**  
+*Zhizhang Hu (University of California, Merced); Tong Yu (Carnegie Mellon University); Ruiyi Zhang (Duke University); Shijia Pan (University of California, Merced)*
+
+**15:45 - 16:15: CycleGAN based Unsupervised Domain Adaptation for Machine Fault Diagnosis**  
+*Naibedya Pattnaik (Embedded Devices and Intelligent Systems, TCS Research, Bangalore, India); Uday Sai Vemula (Indian Institute of Technology Madras, Chennai, India); Kriti Kumar, A. Anil Kumar (Embedded Devices and Intelligent Systems, TCS Research, Bangalore, India); Angshul Majumdar (Indraprastha Institute of Information Technology Delhi, New Delhi, India); M.Girish Chandra, Arpan Pal (Embedded Devices and Intelligent Systems, TCS Research, Bangalore, India)*
+
+**16:15 - 16:45: Federated Learning Biases in Heterogeneous Edge-Devices - A Case-study**  
+*Khotso Selialia, Yasra Chandio, Fatima M. Anwar (University of Massachusetts Amherst)*
+<br/>
+
+**16:45 - 17:00:** ***Afternoon Break***
+
+<br/>
+
+**17:00 - 17:30: Security Analysis of SplitFed Learning**  
+*Momin Ahmad Khan, Virat Shejwalkar (University of Massachusetts Amherst); Amir Houmansadr (UMass Amherst); Fatima M. Anwar (University of Massachusetts Amherst)*
+
+**17:30 - 18:00: Increasing the Intelligence of Low Power Sensors with Autonomous Agents**  
+*Jannik William (ETH Zürich); Matuzalem Muller dos Santos, Jomi Fred Hübner, Maiquel Brito (Universidade Federal de Santa Catarina); Danai Vachtsevanou, Andres Gomez (University of St.Gallen)*
 
 #### Workshop History
 
