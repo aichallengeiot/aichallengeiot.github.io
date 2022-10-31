@@ -6,7 +6,7 @@ This workshop focuses on how to address the above and other unique challenges of
 
 <br/>
 
-### Workshop Program (Sunday, November 10, 2019)
+### Workshop Program (Sunday, November 6, 2022)
 
 <br/>
 
@@ -46,43 +46,45 @@ Keynote speech by [Bharathan Balaji](https://www.synergylabs.org/bharath/), Amaz
 ***Technical Session 2***  
 *Session chair: TBD*
 
-**13:30 - 14:00: Smart Objects: Impact localization powered by TinyML**  
+**13:30 - 13:55: Smart Objects: Impact localization powered by TinyML**  
 *Ioannis Katsidimas (Department of Computer Engineering and Informatics, University of Patras, Greece); Thanasis Kotzakolios (Department of Mechanical Engineering and Aeronautics, University of Patras, Greece); Sotiris Nikoletseas (Department of Computer Engineering and Informatics, University of Patras, Greece and Computer Technology Institute and Press “Diophantus”, Greece); Stefanos H. Panagiotou, Constantinos Tsakonas (Department of Computer Engineering and Informatics, University of Patras, Greece)*
 
-**14:00 - 14:30: The Impact of Cascaded Optimizations in CNN models and End-device Deployment**  
+**13:55 - 14:20: The Impact of Cascaded Optimizations in CNN models and End-device Deployment**  
 *Hanan Hussain, PS Tamizharasan (BITS Pilani, Dubai Campus, UAE)*
 
-**14:30 - 15:00: Evaluation of ASR for Conversational Speech in Voice Assistants: A Linguistic Perspective**  
+**14:20 - 14:45: Evaluation of ASR for Conversational Speech in Voice Assistants: A Linguistic Perspective**  
 *Hannaneh B. Pasandi (Virginia Commonwealth University); Haniyeh B. Pasandi (University of Maryland Baltimore County)*
 
 <br/>
 
-**15:00 - 15:15:** ***Afternoon Break***
+**14:45 - 15:00:** ***Afternoon Break***
 
 <br/>
 
 ***Technical Session: AI Systems and Applications***  
 *Session chair: Rui Tan (Nanyang Technological University)*
 
-**15:15 - 15:45: CIPhy: Causal Intervention with Physical Confounder from IoT Sensor Data for Robust Occupant Information Inference**  
+**15:00 - 15:25: CIPhy: Causal Intervention with Physical Confounder from IoT Sensor Data for Robust Occupant Information Inference**  
 *Zhizhang Hu (University of California, Merced); Tong Yu (Carnegie Mellon University); Ruiyi Zhang (Duke University); Shijia Pan (University of California, Merced)*
 
-**15:45 - 16:15: CycleGAN based Unsupervised Domain Adaptation for Machine Fault Diagnosis**  
+**15:25 - 15:50: CycleGAN based Unsupervised Domain Adaptation for Machine Fault Diagnosis**  
 *Naibedya Pattnaik (Embedded Devices and Intelligent Systems, TCS Research, Bangalore, India); Uday Sai Vemula (Indian Institute of Technology Madras, Chennai, India); Kriti Kumar, A. Anil Kumar (Embedded Devices and Intelligent Systems, TCS Research, Bangalore, India); Angshul Majumdar (Indraprastha Institute of Information Technology Delhi, New Delhi, India); M.Girish Chandra, Arpan Pal (Embedded Devices and Intelligent Systems, TCS Research, Bangalore, India)*
 
-**16:15 - 16:45: Federated Learning Biases in Heterogeneous Edge-Devices - A Case-study**  
+**15:50 - 16:15: Federated Learning Biases in Heterogeneous Edge-Devices - A Case-study**  
 *Khotso Selialia, Yasra Chandio, Fatima M. Anwar (University of Massachusetts Amherst)*
 <br/>
 
-**16:45 - 17:00:** ***Afternoon Break***
+**16:15 - 16:30:** ***Afternoon Break***
 
 <br/>
 
-**17:00 - 17:30: Security Analysis of SplitFed Learning**  
+**16:30 - 16:55: Security Analysis of SplitFed Learning**  
 *Momin Ahmad Khan, Virat Shejwalkar (University of Massachusetts Amherst); Amir Houmansadr (UMass Amherst); Fatima M. Anwar (University of Massachusetts Amherst)*
 
-**17:30 - 18:00: Increasing the Intelligence of Low Power Sensors with Autonomous Agents**  
+**16:55 - 17:20: Increasing the Intelligence of Low Power Sensors with Autonomous Agents**  
 *Jannik William (ETH Zürich); Matuzalem Muller dos Santos, Jomi Fred Hübner, Maiquel Brito (Universidade Federal de Santa Catarina); Danai Vachtsevanou, Andres Gomez (University of St.Gallen)*
+
+**17:20 - 17:30:** ***Closing Remarks*** (Luis Garcia)
 
 #### Workshop History
 
