@@ -10,81 +10,87 @@ This workshop focuses on how to address the above and other unique challenges of
 
 <br/>
 
-**9:30 - 10:00:** ***Arrival*** (Venue: Room TBD, Hilton Boston Back Bay)
+**8:00 - 9:00:** ***Arrival*** (Venue: Room Maverick-A, Hilton Boston Back Bay)
 
 <br/>
 
-**10:00 - 10:10:** ***Welcome and Opening Remarks*** (Luis Garcia)
+**9:00 - 9:10:** ***Welcome and Opening Remarks*** (Luis Garcia)
 
 <br/>
-
-**10:10 - 10:55:** ***Creating sustainable, Data-driven Buildings***  
-Keynote speech by [Bharathan Balaji](https://www.synergylabs.org/bharath/), Amazon AI Lab 
-
-
-<br/>
-
-**10:55 - 11:10:** ***Networking & Morning Break***
-
-<br/>
-
 ***Technical Session 1***  
 *Session chair: TBD*
 
-**11:10 - 11:35: Ultra-low Power DNN Accelerators for IoT: Resource Characterisation of the MAX78000**  
+**9:10 - 9:35: Ultra-low Power DNN Accelerators for IoT: Resource Characterisation of the MAX78000**  
 *Arthur Moss (Nokia Bell Labs and Newcastle University); Hyunjong Lee (Nokia Bell Labs and KAIST); Lei Xun (Nokia Bell Labs and University of Southampton); Chulhong Min, Fahim Kawsar, Alessandro Montanari (Nokia Bell Labs)*
 
-**11:35 - 12:00: ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for On-Device Machine Learning in IoT**  
+**9:35 - 10:00: ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for On-Device Machine Learning in IoT**  
 *Chao Qian, Lukas Einhaus, Gregor Schiele (University of Duisburg-Essen)*
 
 <br/>
 
-**12:00 - 13:30:** ***Lunch Break***
-
-<br/>
+**10:00 - 10:20:** ***Networking & Morning Break***
 
 ***Technical Session 2***  
 *Session chair: TBD*
 
-**13:30 - 13:55: Smart Objects: Impact localization powered by TinyML**  
+**10:20 - 10:45: Smart Objects: Impact localization powered by TinyML**  
 *Ioannis Katsidimas (Department of Computer Engineering and Informatics, University of Patras, Greece); Thanasis Kotzakolios (Department of Mechanical Engineering and Aeronautics, University of Patras, Greece); Sotiris Nikoletseas (Department of Computer Engineering and Informatics, University of Patras, Greece and Computer Technology Institute and Press “Diophantus”, Greece); Stefanos H. Panagiotou, Constantinos Tsakonas (Department of Computer Engineering and Informatics, University of Patras, Greece)*
 
-**13:55 - 14:20: The Impact of Cascaded Optimizations in CNN models and End-device Deployment**  
+**10:45 - 11:10: The Impact of Cascaded Optimizations in CNN models and End-device Deployment**  
 *Hanan Hussain, PS Tamizharasan (BITS Pilani, Dubai Campus, UAE)*
 
-**14:20 - 14:45: Evaluation of ASR for Conversational Speech in Voice Assistants: A Linguistic Perspective**  
+<br/>
+
+**11:10 - 11:30:** ***Networking & Morning Break***
+
+<br/>
+
+**11:30 - 12:20:** ***Keynote: Creating sustainable, Data-driven Buildings***  
+Keynote speech by [Bharathan Balaji](https://www.synergylabs.org/bharath/), Amazon AI Lab 
+
+<br/>
+
+**12:20 - 12:30:** ***Questions & Networking***
+
+<br/>
+
+<br/>
+
+**12:30 - 14:00:** ***Lunch Break***
+
+<br/>
+
+***Technical Session 3***  
+*Session chair: TBD*
+
+**14:00 - 14:25: Evaluation of ASR for Conversational Speech in Voice Assistants: A Linguistic Perspective**  
 *Hannaneh B. Pasandi (Virginia Commonwealth University); Haniyeh B. Pasandi (University of Maryland Baltimore County)*
 
-<br/>
-
-**14:45 - 15:00:** ***Afternoon Break***
-
-<br/>
-
-***Technical Session: AI Systems and Applications***  
-*Session chair: Rui Tan (Nanyang Technological University)*
-
-**15:00 - 15:25: CIPhy: Causal Intervention with Physical Confounder from IoT Sensor Data for Robust Occupant Information Inference**  
+**14:25 - 14:50: CIPhy: Causal Intervention with Physical Confounder from IoT Sensor Data for Robust Occupant Information Inference**  
 *Zhizhang Hu (University of California, Merced); Tong Yu (Carnegie Mellon University); Ruiyi Zhang (Duke University); Shijia Pan (University of California, Merced)*
 
-**15:25 - 15:50: CycleGAN based Unsupervised Domain Adaptation for Machine Fault Diagnosis**  
+
+**14:50 - 15:15: CycleGAN based Unsupervised Domain Adaptation for Machine Fault Diagnosis**  
 *Naibedya Pattnaik (Embedded Devices and Intelligent Systems, TCS Research, Bangalore, India); Uday Sai Vemula (Indian Institute of Technology Madras, Chennai, India); Kriti Kumar, A. Anil Kumar (Embedded Devices and Intelligent Systems, TCS Research, Bangalore, India); Angshul Majumdar (Indraprastha Institute of Information Technology Delhi, New Delhi, India); M.Girish Chandra, Arpan Pal (Embedded Devices and Intelligent Systems, TCS Research, Bangalore, India)*
 
-**15:50 - 16:15: Federated Learning Biases in Heterogeneous Edge-Devices - A Case-study**  
+<br/>
+
+**15:15 - 15:30:** ***Afternoon Break***
+
+<br/>
+***Technical Session 4***  
+*Session chair: TBD*
+
+**15:30 - 15:55: Federated Learning Biases in Heterogeneous Edge-Devices - A Case-study**  
 *Khotso Selialia, Yasra Chandio, Fatima M. Anwar (University of Massachusetts Amherst)*
-<br/>
 
-**16:15 - 16:30:** ***Afternoon Break***
-
-<br/>
-
-**16:30 - 16:55: Security Analysis of SplitFed Learning**  
+**15:55 - 16:20: Security Analysis of SplitFed Learning**  
 *Momin Ahmad Khan, Virat Shejwalkar (University of Massachusetts Amherst); Amir Houmansadr (UMass Amherst); Fatima M. Anwar (University of Massachusetts Amherst)*
 
-**16:55 - 17:20: Increasing the Intelligence of Low Power Sensors with Autonomous Agents**  
+**16:20 - 16:45: Increasing the Intelligence of Low Power Sensors with Autonomous Agents**  
 *Jannik William (ETH Zürich); Matuzalem Muller dos Santos, Jomi Fred Hübner, Maiquel Brito (Universidade Federal de Santa Catarina); Danai Vachtsevanou, Andres Gomez (University of St.Gallen)*
 
-**17:20 - 17:30:** ***Closing Remarks*** (Luis Garcia)
+**16:45 - 17:00:** ***Closing Remarks*** (Luis Garcia)
 
 #### Workshop History
 
