@@ -41,7 +41,11 @@ This workshop focuses on how to address the above and other unique challenges of
 
 <br/>
 
-**11:10 - 11:30:** ***Networking & Morning Break***
+**11:10 - 11:25:** ***Networking & Morning Break***
+
+<br/>
+
+**11:25 - 11:30:** ***Best Paper Award Announcement***
 
 <br/>
 
