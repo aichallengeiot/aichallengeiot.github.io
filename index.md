@@ -18,7 +18,7 @@ This workshop focuses on how to address the above and other unique challenges of
 
 <br/>
 ***Technical Session 1***  
-*Session chair: TBD*
+*Session chair: Luis Garcia*
 
 **9:10 - 9:35: Ultra-low Power DNN Accelerators for IoT: Resource Characterisation of the MAX78000**  
 *Arthur Moss (Nokia Bell Labs and Newcastle University); Hyunjong Lee (Nokia Bell Labs and KAIST); Lei Xun (Nokia Bell Labs and University of Southampton); Chulhong Min, Fahim Kawsar, Alessandro Montanari (Nokia Bell Labs)*
@@ -31,7 +31,7 @@ This workshop focuses on how to address the above and other unique challenges of
 **10:00 - 10:20:** ***Networking & Morning Break***
 
 ***Technical Session 2***  
-*Session chair: TBD*
+*Session chair: Luis Garcia*
 
 **10:20 - 10:45: Smart Objects: Impact localization powered by TinyML**  
 *Ioannis Katsidimas (Department of Computer Engineering and Informatics, University of Patras, Greece); Thanasis Kotzakolios (Department of Mechanical Engineering and Aeronautics, University of Patras, Greece); Sotiris Nikoletseas (Department of Computer Engineering and Informatics, University of Patras, Greece and Computer Technology Institute and Press “Diophantus”, Greece); Stefanos H. Panagiotou, Constantinos Tsakonas (Department of Computer Engineering and Informatics, University of Patras, Greece)*
@@ -61,7 +61,7 @@ Keynote speech by [Bharathan Balaji](https://www.synergylabs.org/bharath/), Amaz
 <br/>
 
 ***Technical Session 3***  
-*Session chair: TBD*
+*Session chair: Shabih Hasan (Delos)*
 
 **14:00 - 14:25: Evaluation of ASR for Conversational Speech in Voice Assistants: A Linguistic Perspective**  
 *Hannaneh B. Pasandi (Virginia Commonwealth University); Haniyeh B. Pasandi (University of Maryland Baltimore County)*
@@ -79,7 +79,7 @@ Keynote speech by [Bharathan Balaji](https://www.synergylabs.org/bharath/), Amaz
 
 <br/>
 ***Technical Session 4***  
-*Session chair: TBD*
+*Session chair: Dezhi Hong*
 
 **15:30 - 15:55: Federated Learning Biases in Heterogeneous Edge-Devices - A Case-study**  
 *Khotso Selialia, Yasra Chandio, Fatima M. Anwar (University of Massachusetts Amherst)*
