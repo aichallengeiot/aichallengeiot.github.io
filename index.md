@@ -20,7 +20,7 @@ This workshop focuses on how to address the above and other unique challenges of
 ***Technical Session 1***  
 *Session chair: Luis Garcia*
 
-**9:10 - 9:35: Ultra-low Power DNN Accelerators for IoT: Resource Characterisation of the MAX78000**  
+**9:10 - 9:35: (Best Paper) Ultra-low Power DNN Accelerators for IoT: Resource Characterisation of the MAX78000**  
 *Arthur Moss (Nokia Bell Labs and Newcastle University); Hyunjong Lee (Nokia Bell Labs and KAIST); Lei Xun (Nokia Bell Labs and University of Southampton); Chulhong Min, Fahim Kawsar, Alessandro Montanari (Nokia Bell Labs)*
 
 **9:35 - 10:00: ElasticAI-Creator: Optimizing Neural Networks for Time-Series-Analysis for On-Device Machine Learning in IoT**  
@@ -47,6 +47,9 @@ This workshop focuses on how to address the above and other unique challenges of
 
 **11:25 - 11:30:** ***Best Paper Award Announcement***
 
+Best Paper #1: Ultra-low Power DNN Accelerators for IoT: Resource Characterisation of the MAX78000, Arthur Moss et al.
+
+Best Paper #2: Increasing the Intelligence of Low Power Sensors with Autonomous Agents, Jannik William et al.
 <br/>
 
 **11:30 - 12:20:** ***Keynote: Creating sustainable, Data-driven Buildings***  
@@ -91,7 +94,7 @@ Keynote speech by [Bharathan Balaji](https://www.synergylabs.org/bharath/), Amaz
 **15:55 - 16:20: Security Analysis of SplitFed Learning**  
 *Momin Ahmad Khan, Virat Shejwalkar (University of Massachusetts Amherst); Amir Houmansadr (UMass Amherst); Fatima M. Anwar (University of Massachusetts Amherst)*
 
-**16:20 - 16:45: Increasing the Intelligence of Low Power Sensors with Autonomous Agents**  
+**16:20 - 16:45: (Best Paper) Increasing the Intelligence of Low Power Sensors with Autonomous Agents**  
 *Jannik William (ETH Zürich); Matuzalem Muller dos Santos, Jomi Fred Hübner, Maiquel Brito (Universidade Federal de Santa Catarina); Danai Vachtsevanou, Andres Gomez (University of St.Gallen)*
 
 **16:45 - 17:00:** ***Closing Remarks*** (Luis Garcia)
